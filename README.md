@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hammast1" alt="hammast1" /></a> </p>
 
-- 🌱 I’m currently learning **Flutterflow , Bubble**
+- 🌱 I’m currently learning **DevOps**
 
 - 👯 I’m looking to collaborate on **Flutter & Flutterflow related projects**
 
