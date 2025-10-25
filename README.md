@@ -1,6 +1,3 @@
-[![trophy](https://github-profile-trophy.vercel.app/?username=Hammas-T1)](https://github.com/Hammas-T1/github-profile-trophy)
-
-
 <h1 align="center">Hi 👋, I'm Muhammad Hammas Rasheed</h1>
 <h3 align="center">A passionate Flutter Mobile app Developer from Pakistan.</h3>
 
