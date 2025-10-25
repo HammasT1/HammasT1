@@ -1,38 +1,76 @@
-<h1 align="center">Hi 👋, I'm Muhammad Hammas Rasheed</h1>
-<h3 align="center">A passionate Flutter Mobile app Developer from Pakistan.</h3>
+<h1 align="center">👋 Hi there! I'm Muhammad Hammas Rasheed</h1>
+<h3 align="center">Mobile Developer | Flutter Expert | Learning DevOps</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hammast1&label=Profile%20views&color=0e75b6&style=flat" alt="hammast1" /> </p>
+<p align="center">
+    <img src="https://komarev.com/ghpvc/?username=hammast1&label=Profile%20Views&color=blue&style=flat" alt="hammast1" /> 
+    &nbsp;
+    </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hammast1" alt="hammast1" /></a> </p>
-
-- 🌱 I’m currently learning **DevOps**
-
-- 👯 I’m looking to collaborate on **Flutter & Flutterflow related projects**
-
-- 🤝 I’m looking for help with **Flutter**
-
-- 💬 Ask me about **Flutter**
-
-- 📫 How to reach me **muhammadhammasrasheed@gmail.com**
-
-- 📄 Know about my experiences [https://1drv.ms/b/c/fa5dcc2bd08995b7/EawdLwaDlJFIgGvWaRzFqrwBlUGXKwnkgg_uyCAWVzlqbg?e=6yxf21](https://1drv.ms/b/c/fa5dcc2bd08995b7/EawdLwaDlJFIgGvWaRzFqrwBlUGXKwnkgg_uyCAWVzlqbg?e=6yxf21)
-
-- ⚡ Fun fact **I think I'm curious of learning something new everytime.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  
-<a href="https://linkedin.com/Muhammad Hammas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="muhammad hammas" height="30" width="40" /></a>
-<a href="https://fb.com/Muhammad Hammas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="muhammad hammas" height="30" width="40" /></a>
-<a href="https://instagram.com/hammas_2.0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hammas_2.0" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/dev_flutter" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="dev_flutter" height="30" width="40" /></a>
+<p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=hammast1&theme=dracula" alt="hammast1" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hammast1&show_icons=true&locale=en&layout=compact" alt="hammast1" /></p>
+## 💡 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hammast1&show_icons=true&locale=en" alt="hammast1" /></p>
+I am a passionate **Flutter Mobile App Developer** from Pakistan, dedicated to building beautiful, cross-platform applications and currently leveling up my skills in the **DevOps** domain to optimize the deployment pipeline.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hammast1&" alt="hammast1" /></p>
+| 🎯 **Focus Areas** | 🤝 **Collaboration** | 📧 **Contact** |
+| :--- | :--- | :--- |
+| **Flutter** (Mobile/Web), **Dart**, **Firebase** | Open to collaborating on **Flutter & FlutterFlow projects**. | muhammadhammasrasheed@gmail.com |
+| **Currently Learning:** DevOps (CI/CD, Docker) | **I'm looking for help with:** Advanced Flutter architectural patterns. | **My Resume/Experience:** [Professional Resume Link](https://1drv.ms/b/c/fa5dcc2bd08995b7/EawdLwaDlJFIgGvWaRzFqrwBlUGXKwnkgg_uyCAWVzlqbg?e=6yxf21) |
+
+> ⚡ **Fun Fact:** I believe curiosity is the best debugging tool. I love learning something new every single day!
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+A snapshot of the languages and technologies I work with to bring mobile and web solutions to life.
+
+<p align="left"> 
+  <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="45" height="45"/> </a> 
+  <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="Dart" width="45" height="45"/> </a> 
+  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="45" height="45"/> </a> 
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="45" height="45"/> </a> 
+  <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="45" height="45"/> </a> 
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="45" height="45"/> </a> 
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/> </a> 
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="45" height="45"/> </a> 
+</p>
+
+---
+
+## 📊 GitHub Stats & Activity
+
+Showcasing my commitment to continuous integration and coding activity.
+
+<table border="0">
+  <tr>
+    <td width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=hammast1&show_icons=true&locale=en&theme=tokyonight&hide_border=true" alt="Hammas's GitHub Stats" />
+    </td>
+    <td width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hammast1&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="Hammas's Top Languages" />
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=hammast1&theme=tokyonight" alt="Hammas's GitHub Streak" />
+</p>
+
+---
+
+## 🌐 Connect with Me
+
+Let's discuss Flutter, projects, or DevOps!
+
+<p align="left">
+    <a href="https://muhammadhammasrasheed@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="muhammadhammasrasheed@gmail.com" /></a>
+    <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_ID" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="https://fb.com/Muhammad Hammas" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Muhammad Hammas" /></a>
+    <a href="https://instagram.com/hammas_2.0" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="hammas_2.0" /></a>
+    <a href="https://www.youtube.com/c/dev_flutter" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="dev_flutter" /></a>
+</p>
