@@ -1,14 +1,6 @@
 <h1 align="center">👋 Hi there! I'm Muhammad Hammas Rasheed</h1>
 <h3 align="center">Mobile Developer | Flutter Expert | Learning DevOps</h3>
 
-<p align="center">
-    <img src="https://komarev.com/ghpvc/?username=hammast1&label=Profile%20Views&color=blue&style=flat" alt="hammast1" /> 
-    &nbsp;
-    </p>
-
-<p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=hammast1&theme=dracula" alt="hammast1" />
-</p>
 
 ---
 
