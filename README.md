@@ -64,5 +64,5 @@ Let's discuss Flutter, projects, or DevOps!
     <a href="www.linkedin.com/in/muhammad-hammas-rasheed-457801373" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
     <a href="https://www.facebook.com/muhammad.hammas.146" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Muhammad Hammas" /></a>
     <a href="https://www.instagram.com/hammas_2.0?igsh=MWlqM2MxMXAzYjJjbA==" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="hammas_2.0" /></a>
-    <a href="https://www.youtube.com/c/dev_flutter" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="dev_flutter" /></a>
+    <a href="https://youtube.com/@flutter_hex?si=ODlrxte9ML2w6IZ5" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="dev_flutter" /></a>
 </p>
