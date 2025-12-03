@@ -47,20 +47,43 @@ A snapshot of the languages and technologies I use to build mobile and web apps.
 
 ## 📊 GitHub Stats & Activity
 
-<table border="0">
-  <tr>
-    <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=hammast1&show_icons=true&theme=tokyonight&hide_border=true" />
-    </td>
-    <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hammast1&layout=compact&theme=tokyonight&hide_border=true" />
-    </td>
-  </tr>
-</table>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hammast1&theme=tokyonight&hide_border=true" />
-</p>
+<!-- 🎨 Main GitHub Stats -->
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=hammast1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
+
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=hammast1&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+
+<!-- 🔥 Streak Stats -->
+<img src="https://github-readme-streak-stats.herokuapp.com?user=hammast1&theme=tokyonight&hide_border=true" width="93%" />
+
+---
+
+## 🏆 GitHub Trophies
+
+<img src="https://github-profile-trophy.vercel.app/?username=hammast1&theme=tokyonight&no-frame=true&margin-w=10" width="100%" />
+
+---
+
+## 📈 Contribution Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=hammast1&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+
+---
+
+## ✨ Animated GitHub Metrics
+
+<!-- Modern animated metrics -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hammast1&theme=tokyonight" width="100%" />
+
+<div style="display: flex; justify-content: center; gap: 10px;">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hammast1&theme=tokyonight" height="200" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hammast1&theme=tokyonight" height="200" />
+</div>
+
+</div>
+
+
 
 ---
 
