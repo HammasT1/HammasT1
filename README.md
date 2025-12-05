@@ -50,7 +50,7 @@ A snapshot of the languages and technologies I use to build mobile and web apps.
 <div align="center">
 
 <!-- 🎨 Main GitHub Stats -->
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=hammast1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=hammast1&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
 
 <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=hammast1&layout=compact&theme=tokyonight&hide_border=true" height="165" />
 
