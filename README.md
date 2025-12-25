@@ -73,8 +73,8 @@
 - [x] Build automation Tools and Bots
 - [x] Dive into Fullstack Development with Firebase
 - [x] Report serious Vulnerabilities to Companies
-- [ ] Advance skills in C++
-- [ ] Complete 100+ Freelance Projects
+- [ ] Advance skills in Dart,Python & C++
+- [ ] Complete 20+ Freelance Projects
 
 ---
 
@@ -135,7 +135,6 @@
 ## 🔗 Wanna Chat?
 
 <p align="center">
-  <a href="https://t.me/cloudchamp" target="_blank"><img src="https://img.shields.io/badge/Telegram-@DevChamp-blue?style=for-the-badge&logo=telegram" /></a>
   <a href="mailto:muhammadhammasrasheed@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-informational?style=for-the-badge&logo=gmail" /></a>
   <br />
 </p>
