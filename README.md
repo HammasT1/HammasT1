@@ -32,7 +32,7 @@
     <td width="50%">
       <h3>Hello World! 🌍</h3>
       <ul>
-        <li>🔎 <b>Identity:</b> Hammas <3</li>
+        <li>🔎 <b>Identity:</b> HamiDEV <3</li>
         <li>🎂 <b>Age:</b> 22 Years</li>
         <li>🗺️ <b>Origin:</b> Pakistan 🇵🇰</li>
         <li>🗣️ <b>Languages:</b> Urdu, English (Learning Russian 🇷🇺)</li>
