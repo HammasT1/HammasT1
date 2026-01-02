@@ -105,21 +105,6 @@
 
 <a name="github-stats"></a>
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hammast1&show_icons=true&theme=dark&count_private=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hammast1&layout=compact&theme=dark"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hammast1&theme=dark" />
-</p>
-
----
-
-<a name="current-focus"></a>
-
 ## 🚀 Current Focus
 
 * 💸 Building and refining **Mobile Apps** with Flutter, Firebase, and State management.
