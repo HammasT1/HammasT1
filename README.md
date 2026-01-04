@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
-  <a href="https://x.com/Hammashami98"><img src="https://img.shields.io/badge/Twitter-@hammast1-007edd?style=for-the-badge&logo=x&logoColor=white" /></a>
+  <a href="https://x.com/Hammashami98"><img src="https://img.shields.io/badge/Twitter-@Hammashami98-007edd?style=for-the-badge&logo=x&logoColor=white" /></a>
   <a href="mailto:23-CS-98@students.uettaxila.edu.pk"><img src="https://img.shields.io/badge/Email-Contact-007edd?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
