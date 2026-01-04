@@ -66,7 +66,7 @@
 
 ### 🛠 Tools & Technologies
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,python,cpp,firebase,supabase,sqlite,docker,postman,git,linux,figma,androidstudio,vscode,kali,ubuntu" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,python,cpp,firebase,supabase,sqlite,docker,postman,git,linux,figma,androidstudio,vscode,kali,ubuntu,html" />
 </p>
 
 ---
