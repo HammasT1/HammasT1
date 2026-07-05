@@ -29,23 +29,40 @@
 
 <table align="center" width="100%">
   <tr>
-    <td width="50%">
-      <h3>Hello World! 🌍</h3>
-      <ul>
-        <li>🔎 <b>Identity:</b> HamiDEV &lt;3</li>
-        <li>🎂 <b>Age:</b> 22 Years</li>
-        <li>🗺️ <b>Origin:</b> Pakistan 🇵🇰</li>
-        <li>🗣️ <b>Languages:</b> Urdu, English (Learning Russian 🇷🇺)</li>
-        <li>💻 <b>Main Stack:</b> Dart, Python, C++</li>
-      </ul>
+    <td width="60%" valign="top">
+      <h3>🚀 Hello World!</h3>
+      <p>I am a passionate software creator focused on engineering high-fidelity mobile experiences and robust digital architectures. Obsessed with code aesthetics, clean lifecycles, and solving complex problems from the ground up.</p>
+      <hr />
+      <table>
+        <tr>
+          <td>🔎 <b>Identity:</b></td>
+          <td>HamiDEV &lt;3</td>
+        </tr>
+        <tr>
+          <td>🎂 <b>Age:</b></td>
+          <td>22 Years</td>
+        </tr>
+        <tr>
+          <td>🗺️ <b>Origin:</b></td>
+          <td>Pakistan 🇵🇰</td>
+        </tr>
+        <tr>
+          <td>🗣️ <b>Languages:</b></td>
+          <td>Urdu, English (Learning Russian 🇷🇺)</td>
+        </tr>
+        <tr>
+          <td>💻 <b>Core Stack:</b></td>
+          <td><code>Dart</code> • <code>Python</code> • <code>C++</code></td>
+        </tr>
+      </table>
     </td>
-    <td width="50%" align="center">
-       <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXp4Y3BqbmR0amN0Z3R6Z3Z6Z3Z6Z3Z6Z3Z6Z3Z6Z3Z6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="200" />
+    <td width="40%" align="center" valign="middle">
+       <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXp4Y3BqbmR0amN0Z3R6Z3Z6Z3Z6Z3Z6Z3Z6Z3Z6Z3Z6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="85%" style="border-radius: 12px; border: 2px solid #007edd;" />
     </td>
   </tr>
 </table>
 
-> **Fun Fact:** I've been breaking (and fixing) things since I was 13!
+> 💡 **Fun Fact:** I've been breaking (and successfully fixing) production systems and computational code since I was 13!
 
 ---
 
@@ -53,10 +70,24 @@
 
 ## 💡 What I Do
 
-* 🔧 **Cross-Platform Mobile Apps:** Crafting high-performance Flutter apps.
-* 🧠 **State Management:** Currently deep-diving into **Riverpod** and **Bloc**.
-* 🧪 **Security:** Researching Mobile Security & API vulnerability.
-* 🐧 **Environment:** OS agnostic, but I have a soft spot for **Arch Linux**.
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h4>📱 Mobile & Cloud Systems</h4>
+      <ul>
+        <li><b>Cross-Platform Masterclass:</b> Architecting production-grade, pixel-perfect iOS & Android applications using <b>Flutter</b>.</li>
+        <li><b>Advanced State Control:</b> Decoupling business logic with strict implementations of <b>BLoC</b> and <b>Riverpod</b>.</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🛡️ System Operations & Ops</h4>
+      <ul>
+        <li><b>Security & Analysis:</b> Actively researching mobile application threat vectors, runtime security, and API layer vulnerabilities.</li>
+        <li><b>Development Workspace:</b> OS agnostic, but engineered with a custom-tailored keyboard-driven workflow on <b>Arch Linux</b>.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -73,8 +104,7 @@ Stepping up to empower my community, manage technical systems, and drive social 
       <p>Spearheading the core tech community at UET Taxila. In this role, I drive technical engagement, orchestrate developer bootcamps, and build a collaborative culture around modern technical tools. I act as the central link connecting students with Microsoft's ecosystem to nurture the next generation of engineers.</p>
     </td>
     <td width="40%" align="center" valign="middle">
-      <!-- PLACEHOLDER FOR MLSA ROLE PIC -->
-      <!-- <img src="YOUR_IMAGE_URL" width="100%" alt="MLSA Co-Lead" /> -->
+      <img src="https://github.com/HammasT1/certificates/blob/main/MLSA%20Colead.png?raw=true" width="100%" alt="MLSA Co-Lead Appointment Certificate" style="border-radius: 8px; border: 1px solid #007edd;" />
     </td>
   </tr>
 </table>
@@ -86,8 +116,7 @@ Stepping up to empower my community, manage technical systems, and drive social 
       <p>Directing impactful welfare campaigns aimed at making education accessible to underserved children. As the CSP Head, I lead resource allocation, manage sponsor networks, and oversee initiatives designed to provide sustainable educational support and hope to the next generation.</p>
     </td>
     <td width="40%" align="center" valign="middle">
-      <!-- PLACEHOLDER FOR UMEED-E-SUBH ROLE PIC -->
-      <!-- <img src="YOUR_IMAGE_URL" width="100%" alt="UMEED-E-SUBH CSP Head" /> -->
+      <img src="https://github.com/HammasT1/certificates/blob/main/CSP%20Head%20UES.jpeg?raw=true" width="100%" alt="UMEED-E-SUBH CSP Head Certificate" style="border-radius: 8px; border: 1px solid #007edd;" />
     </td>
   </tr>
 </table>
@@ -99,8 +128,7 @@ Stepping up to empower my community, manage technical systems, and drive social 
       <p>Contributing as a senior technical leader in UET Taxila's premier technical society. I actively guide and review complex projects, mentor junior developers entering mobile app and system development, and assist in designing competitive hackathons and coding syntax workshops.</p>
     </td>
     <td width="40%" align="center" valign="middle">
-      <!-- PLACEHOLDER FOR SOFTDESK ROLE PIC -->
-      <!-- <img src="YOUR_IMAGE_URL" width="100%" alt="Softdesk Senior Executive" /> -->
+      <img src="https://github.com/HammasT1/certificates/blob/main/Senior%20Executive%20Softdesk.jpeg?raw=true" width="100%" alt="Softdesk Senior Executive Certificate" style="border-radius: 8px; border: 1px solid #007edd;" />
     </td>
   </tr>
 </table>
@@ -112,8 +140,7 @@ Stepping up to empower my community, manage technical systems, and drive social 
       <p>Capturing the campus narrative, large-scale event highlights, and technical symposiums. My role focuses on leading visual coverage, framing creative media assets, and collaborating with design leads to produce striking digital media content across university portals.</p>
     </td>
     <td width="40%" align="center" valign="middle">
-      <!-- PLACEHOLDER FOR UMC ROLE PIC -->
-      <!-- <img src="YOUR_IMAGE_URL" width="100%" alt="UMC Senior Executive" /> -->
+      <img src="https://github.com/HammasT1/certificates/blob/main/UMC%20Director.jpeg?raw=true" width="100%" alt="UMC Senior Executive Certificate" style="border-radius: 8px; border: 1px solid #007edd;" />
     </td>
   </tr>
 </table>
@@ -125,8 +152,7 @@ Stepping up to empower my community, manage technical systems, and drive social 
       <p>Managed organizational pipelines and public welfare distributions for the Taxila Chapter. During my tenure, I led cross-functional student teams to execute ground-level social assistance drives, community outreach campaigns, and structural resource development programs.</p>
     </td>
     <td width="40%" align="center" valign="middle">
-      <!-- PLACEHOLDER FOR WALL OF HOPE ROLE PIC -->
-      <!-- <img src="YOUR_IMAGE_URL" width="100%" alt="Wall of Hope Ex-Director" /> -->
+      <img src="https://github.com/HammasT1/certificates/blob/main/WOH%20Director.jpeg?raw=true" width="100%" alt="Wall of Hope Ex-Director Certificate" style="border-radius: 8px; border: 1px solid #007edd;" />
     </td>
   </tr>
 </table>
@@ -171,8 +197,7 @@ Stepping up to empower my community, manage technical systems, and drive social 
       </a>
     </td>
     <td width="35%" align="center" valign="middle">
-      <!-- Reference: Coursera Certificate_page-0001.jpg -->
-      <img src="https://img.shields.io/badge/Coursera-Certified-blue?style=for-the-badge&logo=coursera&logoColor=white" width="100%" alt="Certificate Badge" style="border-radius: 8px; border: 1px solid #007edd;"/>
+      <img src="https://github.com/HammasT1/certificates/blob/main/Coursera%20Certificate_page-0001.jpg?raw=true" width="100%" alt="Coursera UI/UX Certificate" style="border-radius: 8px; border: 1px solid #007edd;"/>
     </td>
   </tr>
 </table>
