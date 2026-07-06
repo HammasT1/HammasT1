@@ -188,6 +188,32 @@ Stepping up to empower my community, manage technical systems, and drive social 
 <table width="100%">
   <tr>
     <td width="65%" valign="top">
+      <h3>Microsoft Certified: GitHub Certification</h3>
+      <p><b>Issuer:</b> Microsoft / GitHub</p>
+      <p><b>Description:</b> Verification of advanced proficiency in modern DevOps practices, platform security, continuous integration/continuous deployment (CI/CD) pipelines via GitHub Actions, and scalable project management within the GitHub ecosystem.</p>
+    </td>
+    <td width="35%" align="center" valign="middle">
+      <img src="https://github.com/HammasT1/certificates/blob/main/Github%20certification%202_page-0001.jpg?raw=true" width="100%" alt="Microsoft Certified GitHub Certification" style="border-radius: 8px; border: 1px solid #007edd;"/>
+    </td>
+  </tr>
+</table>
+
+<table width="100%">
+  <tr>
+    <td width="65%" valign="top">
+      <h3>Microsoft Certified: Git Certification</h3>
+      <p><b>Issuer:</b> Microsoft / GitHub</p>
+      <p><b>Description:</b> Validation of expertise in foundational distributed version control workflows, repository management, optimization of conflict resolution, and branching strategies essential for professional collaborative software engineering systems.</p>
+    </td>
+    <td width="35%" align="center" valign="middle">
+      <img src="https://github.com/HammasT1/certificates/blob/main/Github%20certification%204_page-0001.jpg?raw=true" width="100%" alt="Microsoft Certified Git Certification" style="border-radius: 8px; border: 1px solid #007edd;"/>
+    </td>
+  </tr>
+</table>
+
+<table width="100%">
+  <tr>
+    <td width="65%" valign="top">
       <h3>Design a Mobile App Interface with Moqups</h3>
       <p><b>Issuer:</b> Coursera (Offered through Cleerup)</p>
       <p><b>Authorized by:</b> Angelo Paolillo (Digital Consultant - Director)</p>
