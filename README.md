@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/HammasT1/certificates/blob/main/Professional%20Github%20Banner.png?raw=true" width="100%" />
+</p>
+
 <a name="top"></a>
 
 <p align="center">
