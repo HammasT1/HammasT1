@@ -1,7 +1,7 @@
 <a name="top"></a>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,12,24,36,48&height=220&section=header&text=Hammas%20Rasheed&fontSize=80&animation=fadeIn&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=b19cd9&height=220&section=header&text=Hammas%20Rasheed&fontSize=80&animation=fadeIn&fontAlignY=35" />
 </p>
 
 <p align="center">
@@ -9,19 +9,19 @@
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=007EDD&center=true&vCenter=true&width=500&lines=Flutter+Developer;Figma+UI/UX+Designer;FlutterFlow+Expert;Fullstack+Explorer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=b19cd9&center=true&vCenter=true&width=500&lines=Flutter+Developer;Figma+UI/UX+Designer;FlutterFlow+Expert;Fullstack+Explorer" alt="Typing SVG" />
 </h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=HammasT1&label=PROFILE+VIEWS&color=007edd&style=flat-square" alt="HammasT1" />
-  <img src="https://img.shields.io/github/followers/HammasT1?color=007edd&style=flat-square&logo=github&label=Followers" alt="GitHub Followers" />
-  <img src="https://img.shields.io/github/stars/HammasT1?color=007edd&style=flat-square&logo=github&label=Total%20Stars" alt="GitHub Stars" />
+  <img src="https://komarev.com/ghpvc/?username=HammasT1&label=PROFILE+VIEWS&color=b19cd9&style=flat-square" alt="HammasT1" />
+  <img src="https://img.shields.io/github/followers/HammasT1?color=b19cd9&style=flat-square&logo=github&label=Followers" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/stars/HammasT1?color=b19cd9&style=flat-square&logo=github&label=Total%20Stars" alt="GitHub Stars" />
 </p>
 
 <p align="center">
-  <a href="https://x.com/Hammashami98"><img src="https://img.shields.io/badge/Twitter-@Hammashami98-007edd?style=for-the-badge&logo=x&logoColor=white" /></a>
-  <a href="mailto:23-CS-98@students.uettaxila.edu.pk"><img src="https://img.shields.io/badge/Email-Contact-007edd?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/HammasT1"><img src="https://img.shields.io/badge/GitHub-HammasT1-007edd?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://x.com/Hammashami98"><img src="https://img.shields.io/badge/Twitter-b19cd9?style=for-the-badge&logo=x&logoColor=white" /></a>
+  <a href="mailto:23-CS-98@students.uettaxila.edu.pk"><img src="https://img.shields.io/badge/Email-b19cd9?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/HammasT1"><img src="https://img.shields.io/badge/GitHub-b19cd9?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 ---
@@ -60,7 +60,7 @@
       </table>
     </td>
     <td width="40%" align="center" valign="middle">
-       <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXp4Y3BqbmR0amN0Z3R6Z3Z6Z3Z6Z3Z6Z3Z6Z3Z6Z3Z6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="85%" style="border-radius: 12px; border: 2px solid #007edd;" />
+       <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXp4Y3BqbmR0amN0Z3R6Z3Z6Z3Z6Z3Z6Z3Z6Z3Z6Z3Z6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" style="border-radius: 12px; border: 2px solid #b19cd9; display: block;" />
     </td>
   </tr>
 </table>
@@ -125,61 +125,40 @@ Stepping up to empower my community, manage technical systems, and drive social 
 
 <table width="100%">
   <tr>
-    <td width="60%" valign="top">
-      <h3>🚀 Co-Lead — MLSA Club (Microsoft Learn Student Ambassadors)</h3>
-      <p>Spearheading the core tech community at UET Taxila. In this role, I drive technical engagement, orchestrate developer bootcamps, and build a collaborative culture around modern technical tools. I act as the central link connecting students with Microsoft's ecosystem to nurture the next generation of engineers.</p>
+    <td width="50%" align="center" valign="top">
+      <img src="https://github.com/HammasT1/certificates/blob/main/MLSA%20Colead.png?raw=true" width="92%" alt="MLSA Co-Lead Appointment Certificate" style="border-radius: 8px; border: 1px solid #b19cd9;" />
+      <h3 align="left">🚀 Co-Lead — MLSA Club</h3>
+      <p align="left">Spearheading the core tech community at UET Taxila, driving technical engagement, bootcamps, and building a collaborative culture around Microsoft's ecosystem.</p>
     </td>
-    <td width="40%" align="center" valign="middle">
-      <img src="https://github.com/HammasT1/certificates/blob/main/MLSA%20Colead.png?raw=true" width="100%" alt="MLSA Co-Lead Appointment Certificate" style="border-radius: 8px; border: 1px solid #007edd;" />
+    <td width="50%" align="center" valign="top">
+      <img src="https://github.com/HammasT1/certificates/blob/main/CSP%20Head%20UES.jpeg?raw=true" width="92%" alt="UMEED-E-SUBH CSP Head Certificate" style="border-radius: 8px; border: 1px solid #b19cd9;" />
+      <h3 align="left">🤝 CSP Head — UMEED-E-SUBH</h3>
+      <p align="left">Directing impactful welfare campaigns making education accessible to underserved children, managing resource allocation and sponsor networks.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <img src="https://github.com/HammasT1/certificates/blob/main/Senior%20Executive%20Softdesk.jpeg?raw=true" width="92%" alt="Softdesk Senior Executive Certificate" style="border-radius: 8px; border: 1px solid #b19cd9;" />
+      <h3 align="left">💻 Senior Executive — Softdesk</h3>
+      <p align="left">Guiding complex projects, mentoring junior developers in mobile app and system development, and organizing competitive hackathons.</p>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <img src="https://github.com/HammasT1/certificates/blob/main/UMC%20Director.jpeg?raw=true" width="92%" alt="UMC Senior Executive Certificate" style="border-radius: 8px; border: 1px solid #b19cd9;" />
+      <h3 align="left">📸 Senior Executive — UMC</h3>
+      <p align="left">Capturing the campus narrative, leading visual media coverage for large-scale symposia, and collaborating on digital asset creation.</p>
     </td>
   </tr>
 </table>
 
 <table width="100%">
   <tr>
-    <td width="60%" valign="top">
-      <h3>🤝 CSP (Child Sponsorship Program) Head — UMEED-E-SUBH Welfare Society</h3>
-      <p>Directing impactful welfare campaigns aimed at making education accessible to underserved children. As the CSP Head, I lead resource allocation, manage sponsor networks, and oversee initiatives designed to provide sustainable educational support and hope to the next generation.</p>
+    <td width="25%"></td>
+    <td width="50%" align="center" valign="top">
+      <img src="https://github.com/HammasT1/certificates/blob/main/WOH%20Director.jpeg?raw=true" width="92%" alt="Wall of Hope Ex-Director Certificate" style="border-radius: 8px; border: 1px solid #b19cd9;" />
+      <h3 align="left">🌟 Ex-Director — Wall of Hope</h3>
+      <p align="left">Managed organizational pipelines and public welfare distributions for the Taxila Chapter, leading cross-functional student assistance drives.</p>
     </td>
-    <td width="40%" align="center" valign="middle">
-      <img src="https://github.com/HammasT1/certificates/blob/main/CSP%20Head%20UES.jpeg?raw=true" width="100%" alt="UMEED-E-SUBH CSP Head Certificate" style="border-radius: 8px; border: 1px solid #007edd;" />
-    </td>
-  </tr>
-</table>
-
-<table width="100%">
-  <tr>
-    <td width="60%" valign="top">
-      <h3>💻 Senior Executive — Softdesk</h3>
-      <p>Contributing as a senior technical leader in UET Taxila's premier technical society. I actively guide and review complex projects, mentor junior developers entering mobile app and system development, and assist in designing competitive hackathons and coding syntax workshops.</p>
-    </td>
-    <td width="40%" align="center" valign="middle">
-      <img src="https://github.com/HammasT1/certificates/blob/main/Senior%20Executive%20Softdesk.jpeg?raw=true" width="100%" alt="Softdesk Senior Executive Certificate" style="border-radius: 8px; border: 1px solid #007edd;" />
-    </td>
-  </tr>
-</table>
-
-<table width="100%">
-  <tr>
-    <td width="60%" valign="top">
-      <h3>📸 Senior Executive (Photography Team) — UMC (UET Media Club)</h3>
-      <p>Capturing the campus narrative, large-scale event highlights, and technical symposiums. My role focuses on leading visual coverage, framing creative media assets, and collaborating with design leads to produce striking digital media content across university portals.</p>
-    </td>
-    <td width="40%" align="center" valign="middle">
-      <img src="https://github.com/HammasT1/certificates/blob/main/UMC%20Director.jpeg?raw=true" width="100%" alt="UMC Senior Executive Certificate" style="border-radius: 8px; border: 1px solid #007edd;" />
-    </td>
-  </tr>
-</table>
-
-<table width="100%">
-  <tr>
-    <td width="60%" valign="top">
-      <h3>🌟 Ex-Director — Wall of Hope (Taxila Chapter)</h3>
-      <p>Managed organizational pipelines and public welfare distributions for the Taxila Chapter. During my tenure, I led cross-functional student teams to execute ground-level social assistance drives, community outreach campaigns, and structural resource development programs.</p>
-    </td>
-    <td width="40%" align="center" valign="middle">
-      <img src="https://github.com/HammasT1/certificates/blob/main/WOH%20Director.jpeg?raw=true" width="100%" alt="Wall of Hope Ex-Director Certificate" style="border-radius: 8px; border: 1px solid #007edd;" />
-    </td>
+    <td width="25%"></td>
   </tr>
 </table>
 
@@ -201,12 +180,12 @@ Stepping up to empower my community, manage technical systems, and drive social 
 ## 📊 Git Streak & Activity
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HammasT1&theme=react&hide_border=true&background=1a1b26&stroke=007edd&ring=007edd&fire=007edd&sideNums=ffffff&sideLabels=ffffff&dates=ffffff" alt="GitHub Streak" width="100%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HammasT1&theme=react&hide_border=true&background=1a1b26&stroke=b19cd9&ring=b19cd9&fire=b19cd9&sideNums=ffffff&sideLabels=ffffff&dates=ffffff" alt="GitHub Streak" width="100%" />
 </p>
 
 <!-- Interactive Dynamic Contribution Activity Graph Chart -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HammasT1&theme=react-dark&bg_color=1a1b26&color=007edd&line=007edd&point=ffffff&hide_border=true" alt="GitHub Activity Graph" width="98%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HammasT1&theme=react-dark&bg_color=1a1b26&color=b19cd9&line=b19cd9&point=ffffff&hide_border=true" alt="GitHub Activity Graph" width="98%" />
 </p>
 
 ---
@@ -217,43 +196,26 @@ Stepping up to empower my community, manage technical systems, and drive social 
 
 <table width="100%">
   <tr>
-    <td width="65%" valign="top">
-      <h3>Microsoft Certified: GitHub Certification</h3>
-      <p><b>Issuer:</b> Microsoft / GitHub</p>
-      <p><b>Description:</b> Verification of advanced proficiency in modern DevOps practices, platform security, continuous integration/continuous deployment (CI/CD) pipelines via GitHub Actions, and scalable project management within the GitHub ecosystem.</p>
+    <td width="33%" align="center" valign="top">
+      <img src="https://github.com/HammasT1/certificates/blob/main/Github%20certification%202_page-0001.jpg?raw=true" width="100%" alt="Microsoft Certified GitHub Certification" style="border-radius: 8px; border: 1px solid #b19cd9;" />
+      <h4 align="left">Microsoft Certified: GitHub</h4>
+      <p align="left"><b>Issuer:</b> Microsoft / GitHub</p>
+      <p align="left">Verification of advanced proficiency in modern DevOps practices, platform security, and CI/CD pipelines via GitHub Actions.</p>
     </td>
-    <td width="35%" align="center" valign="middle">
-      <img src="https://github.com/HammasT1/certificates/blob/main/Github%20certification%202_page-0001.jpg?raw=true" width="100%" alt="Microsoft Certified GitHub Certification" style="border-radius: 8px; border: 1px solid #007edd;"/>
+    <td width="33%" align="center" valign="top">
+      <img src="https://github.com/HammasT1/certificates/blob/main/Github%20certification%204_page-0001.jpg?raw=true" width="100%" alt="Microsoft Certified Git Certification" style="border-radius: 8px; border: 1px solid #b19cd9;" />
+      <h4 align="left">Microsoft Certified: Git</h4>
+      <p align="left"><b>Issuer:</b> Microsoft / GitHub</p>
+      <p align="left">Validation of expertise in distributed version control workflows, repository management, and conflict resolution strategies.</p>
     </td>
-  </tr>
-</table>
-
-<table width="100%">
-  <tr>
-    <td width="65%" valign="top">
-      <h3>Microsoft Certified: Git Certification</h3>
-      <p><b>Issuer:</b> Microsoft / GitHub</p>
-      <p><b>Description:</b> Validation of expertise in foundational distributed version control workflows, repository management, optimization of conflict resolution, and branching strategies essential for professional collaborative software engineering systems.</p>
-    </td>
-    <td width="35%" align="center" valign="middle">
-      <img src="https://github.com/HammasT1/certificates/blob/main/Github%20certification%204_page-0001.jpg?raw=true" width="100%" alt="Microsoft Certified Git Certification" style="border-radius: 8px; border: 1px solid #007edd;"/>
-    </td>
-  </tr>
-</table>
-
-<table width="100%">
-  <tr>
-    <td width="65%" valign="top">
-      <h3>Design a Mobile App Interface with Moqups</h3>
-      <p><b>Issuer:</b> Coursera (Offered through Cleerup)</p>
-      <p><b>Authorized by:</b> Angelo Paolillo (Digital Consultant - Director)</p>
-      <p><b>Description:</b> An intensive, practical project focused on wireframing, building low-to-high fidelity interactive mockups, and architecting seamless user experiences (UX) tailored specifically for mobile operating environments.</p>
+    <td width="33%" align="center" valign="top">
+      <img src="https://github.com/HammasT1/certificates/blob/main/Coursera%20Certificate_page-0001.jpg?raw=true" width="100%" alt="Coursera UI/UX Certificate" style="border-radius: 8px; border: 1px solid #b19cd9;" />
+      <h4 align="left">Mobile App UI with Moqups</h4>
+      <p align="left"><b>Issuer:</b> Coursera (Cleerup)</p>
+      <p align="left">Intensive project on wireframing, low-to-high fidelity interactive mockups, and mobile UX architecture.</p>
       <a href="https://coursera.org/verify/F3RV6FWTEUNC" target="_blank">
-        <img src="https://img.shields.io/badge/Verify%20Credential-Coursera-007edd?style=flat-square&logo=coursera" alt="Verify Certificate"/>
+        <img src="https://img.shields.io/badge/Verify%20Credential-Coursera-b19cd9?style=flat-square&logo=coursera" alt="Verify Certificate"/>
       </a>
-    </td>
-    <td width="35%" align="center" valign="middle">
-      <img src="https://github.com/HammasT1/certificates/blob/main/Coursera%20Certificate_page-0001.jpg?raw=true" width="100%" alt="Coursera UI/UX Certificate" style="border-radius: 8px; border: 1px solid #007edd;"/>
     </td>
   </tr>
 </table>
@@ -278,7 +240,7 @@ Stepping up to empower my community, manage technical systems, and drive social 
 
 <p align="center">
   <a href="mailto:23-CS-98@students.uettaxila.edu.pk">
-    <img src="https://img.shields.io/badge/Hire_Me-007edd?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Hire_Me-b19cd9?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
@@ -287,7 +249,7 @@ Stepping up to empower my community, manage technical systems, and drive social 
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=0,12,24,36,48&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=b19cd9&section=footer" />
 </p>
 
 <br />
