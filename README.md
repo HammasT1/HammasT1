@@ -1,11 +1,11 @@
 <a name="top"></a>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=007edd&height=220&section=header&text=Hammas%20Rasheed&fontSize=80&animation=fadeIn&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,12,24,36,48&height=220&section=header&text=Hammas%20Rasheed&fontSize=80&animation=fadeIn&fontAlignY=35" />
 </p>
 
 <p align="center">
-  <a href="#me"><b>Me</b></a> • <a href="#about-me"><b>About</b></a> • <a href="#roles"><b>Leadership</b></a> • <a href="#languages-tools"><b>Arsenal</b></a> • <a href="#stats"><b>Metrics</b></a> • <a href="#certifications"><b>Certifications</b></a> • <a href="#milestones"><b>Goals</b></a> • <a href="#wanna-chat"><b>Contact</b></a>
+  <a href="#me"><b>Me</b></a> • <a href="#about-me"><b>About</b></a> • <a href="#projects"><b>Projects</b></a> • <a href="#roles"><b>Leadership</b></a> • <a href="#languages-tools"><b>Arsenal</b></a> • <a href="#stats"><b>Metrics</b></a> • <a href="#certifications"><b>Certifications</b></a> • <a href="#wanna-chat"><b>Contact</b></a>
 </p>
 
 <h1 align="center">
@@ -14,11 +14,14 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=HammasT1&label=PROFILE+VIEWS&color=007edd&style=flat-square" alt="HammasT1" />
+  <img src="https://img.shields.io/github/followers/HammasT1?color=007edd&style=flat-square&logo=github&label=Followers" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/stars/HammasT1?color=007edd&style=flat-square&logo=github&label=Total%20Stars" alt="GitHub Stars" />
 </p>
 
 <p align="center">
   <a href="https://x.com/Hammashami98"><img src="https://img.shields.io/badge/Twitter-@Hammashami98-007edd?style=for-the-badge&logo=x&logoColor=white" /></a>
   <a href="mailto:23-CS-98@students.uettaxila.edu.pk"><img src="https://img.shields.io/badge/Email-Contact-007edd?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/HammasT1"><img src="https://img.shields.io/badge/GitHub-HammasT1-007edd?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 ---
@@ -83,8 +86,31 @@
       <h4>🛡️ System Operations & Ops</h4>
       <ul>
         <li><b>Security & Analysis:</b> Actively researching mobile application threat vectors, runtime security, and API layer vulnerabilities.</li>
-        <li><b>Development Workspace:</b> OS agnostic, but engineered with a custom-tailored keyboard-driven workflow on <b>Arch Linux</b>.</li>
+        <li><b>Development Workspace:</b> OS agnostic, but engineered with a custom-tailored keyboard-driven workflow on <b>Linux</b>.</li>
       </ul>
+    </td>
+  </tr>
+</table>
+
+---
+
+<a name="projects"></a>
+
+## ⚡ Featured Creations
+
+<table width="100%">
+  <tr>
+    <td width="33%" valign="top">
+      <h4>🧊 Rubik's Cube Solver</h4>
+      <p>An interactive solver built in Flutter utilizing Scoped Model state management and an intricate pipeline of custom move-asset animations.</p>
+    </td>
+    <td width="33%" valign="top">
+      <h4>🎮 Flutter Tetris Engine</h4>
+      <p>A classic, high-performance Tetris game built entirely inside the Flutter framework to showcase complex UI rendering and state loops.</p>
+    </td>
+    <td width="33%" valign="top">
+      <h4>💳 WalletFX</h4>
+      <p>A high-fidelity finance UI app showcasing sleek card rotations, custom gradients, dynamic toggles, and immersive component design.</p>
     </td>
   </tr>
 </table>
@@ -165,14 +191,18 @@ Stepping up to empower my community, manage technical systems, and drive social 
 
 ### 🛠 Tools & Technologies
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,python,cpp,firebase,supabase,sqlite,docker,postman,git,linux,figma,androidstudio,vscode,kali,ubuntu" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,python,cpp,firebase,supabase,sqlite,docker,postman,git,linux,figma,androidstudio,vscode,kali,ubuntu&theme=dark" />
 </p>
 
 ---
 
 <a name="stats"></a>
 
-## 📊 Git Analytics & Activity
+## 📊 Git Streak & Activity
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HammasT1&theme=react&hide_border=true&background=1a1b26&stroke=007edd&ring=007edd&fire=007edd&sideNums=ffffff&sideLabels=ffffff&dates=ffffff" alt="GitHub Streak" width="100%" />
+</p>
 
 <!-- Interactive Dynamic Contribution Activity Graph Chart -->
 <p align="center">
@@ -256,9 +286,8 @@ Stepping up to empower my community, manage technical systems, and drive social 
   <i>“Building the Future, One Widget at a Time.”</i>
 </p>
 
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=007edd&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=0,12,24,36,48&section=footer" />
 </p>
 
 <br />
