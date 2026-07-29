@@ -181,15 +181,20 @@ Stepping up to empower my community, manage technical systems, and drive social 
 
 <a name="stats"></a>
 
-## 📊 Git Streak & Activity
+## 📊 Activity & Metrics
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HammasT1&theme=react&hide_border=true&background=1a1b26&stroke=b19cd9&ring=b19cd9&fire=b19cd9&sideNums=ffffff&sideLabels=ffffff&dates=ffffff" alt="GitHub Streak" width="100%" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=b19cd9&center=true&vCenter=true&width=600&lines=🔥+Committed+to+Continuous+Coding+Every+Single+Day;⚡+Building+Robust+Apps+%26+Pushing+Clean+Commits;🚀+Consistent+Contributions+%26+Active+Dev+Workflows" alt="Typing Streak Showcase" />
 </p>
 
 <!-- Interactive Dynamic Contribution Activity Graph Chart -->
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=HammasT1&theme=react-dark&bg_color=1a1b26&color=b19cd9&line=b19cd9&point=ffffff&hide_border=true" alt="GitHub Activity Graph" width="98%" />
+</p>
+
+<!-- Animated Developer Metrics Diagram Bar -->
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HammasT1&theme=tokyonight" alt="GitHub Profile Summary Details" width="100%" />
 </p>
 
 ---
