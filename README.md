@@ -99,26 +99,17 @@
 
 ---
 
+---
+
 <a name="projects"></a>
 
 ## ⚡ Featured Creations
 
-<table width="100%">
-  <tr>
-    <td width="33%" valign="top">
-      <h4>🧊 Rubik's Cube Solver</h4>
-      <p>An interactive solver built in Flutter utilizing Scoped Model state management and an intricate pipeline of custom move-asset animations.</p>
-    </td>
-    <td width="33%" valign="top">
-      <h4>🎮 Flutter Tetris Engine</h4>
-      <p>A classic, high-performance Tetris game built entirely inside the Flutter framework to showcase complex UI rendering and state loops.</p>
-    </td>
-    <td width="33%" valign="top">
-      <h4>💳 WalletFX</h4>
-      <p>A high-fidelity finance UI app showcasing sleek card rotations, custom gradients, dynamic toggles, and immersive component design.</p>
-    </td>
-  </tr>
-</table>
+| Project & Links | Description & Tech Stack |
+| :--- | :--- |
+| **☕ starbucks_Flutter**<br><br>[![View Code](https://img.shields.io/badge/GitHub-Repository-b19cd9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HammasT1/starbucks_card_animation) | A feature-rich Starbucks mobile app UI replica built with Flutter, showcasing custom product menus, seamless ordering flows, and polished styling.<br><br>![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white) |
+| **⌚ Ben10_watch_Flutter**<br><br>[![View Code](https://img.shields.io/badge/GitHub-Repository-b19cd9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HammasT1/Ben10_watch_flutter) | An interactive Omnitrix watch interface crafted in Flutter featuring nostalgic animations, custom rotating UI mechanics, and dynamic states.<br><br>![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white) |
+| **🕹️ Pacman_Flutter**<br><br>[![View Code](https://img.shields.io/badge/GitHub-Repository-b19cd9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HammasT1/Pacman_Flutter) | A fully functional clone of the classic arcade game Pac-Man built from scratch using Flutter with custom grid rendering and game loops.<br><br>![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white) |
 
 ---
 
