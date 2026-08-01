@@ -130,40 +130,49 @@ Stepping up to empower my community, manage technical systems, and drive social 
 
 <table width="100%">
   <tr>
-    <td width="50%" align="center" valign="top">
-      <img src="https://github.com/HammasT1/certificates/blob/main/MLSA%20Colead.png?raw=true" width="92%" alt="MLSA Co-Lead Appointment Certificate" style="border-radius: 8px; border: 1px solid #b19cd9;" />
-      <h3 align="left">🚀 Co-Lead — MLSA Club</h3>
-      <p align="left">Spearheading the core tech community at UET Taxila, driving technical engagement, bootcamps, and building a collaborative culture around Microsoft's ecosystem.</p>
+    <td width="20%" align="center" valign="middle">
+      <img src="https://github.com/HammasT1/certificates/blob/main/MLSA%20Colead.png?raw=true" width="100%" alt="MLSA Co-Lead Appointment Certificate" style="border-radius: 6px; border: 1px solid #b19cd9;" />
     </td>
-    <td width="50%" align="center" valign="top">
-      <img src="https://github.com/HammasT1/certificates/blob/main/CSP%20Head%20UES.jpeg?raw=true" width="92%" alt="UMEED-E-SUBH CSP Head Certificate" style="border-radius: 8px; border: 1px solid #b19cd9;" />
-      <h3 align="left">🤝 CSP Head — UMEED-E-SUBH</h3>
-      <p align="left">Directing impactful welfare campaigns making education accessible to underserved children, managing resource allocation and sponsor networks.</p>
+    <td width="80%" valign="middle">
+      <h4>🚀 Co-Lead — MLSA Club</h4>
+      <p>Spearheading the core tech community at UET Taxila, driving technical engagement, bootcamps, and building a collaborative culture around Microsoft's ecosystem.</p>
     </td>
   </tr>
   <tr>
-    <td width="50%" align="center" valign="top">
-      <img src="https://github.com/HammasT1/certificates/blob/main/Senior%20Executive%20Softdesk.jpeg?raw=true" width="92%" alt="Softdesk Senior Executive Certificate" style="border-radius: 8px; border: 1px solid #b19cd9;" />
-      <h3 align="left">💻 Senior Executive — Softdesk</h3>
-      <p align="left">Guiding complex projects, mentoring junior developers in mobile app and system development, and organizing competitive hackathons.</p>
+    <td width="20%" align="center" valign="middle">
+      <img src="https://github.com/HammasT1/certificates/blob/main/CSP%20Head%20UES.jpeg?raw=true" width="100%" alt="UMEED-E-SUBH CSP Head Certificate" style="border-radius: 6px; border: 1px solid #b19cd9;" />
     </td>
-    <td width="50%" align="center" valign="top">
-      <img src="https://github.com/HammasT1/certificates/blob/main/UMC%20Director.jpeg?raw=true" width="92%" alt="UMC Senior Executive Certificate" style="border-radius: 8px; border: 1px solid #b19cd9;" />
-      <h3 align="left">📸 Senior Executive — UMC</h3>
-      <p align="left">Capturing the campus narrative, leading visual media coverage for large-scale symposia, and collaborating on digital asset creation.</p>
+    <td width="80%" valign="middle">
+      <h4>🤝 CSP Head — UMEED-E-SUBH</h4>
+      <p>Directing impactful welfare campaigns making education accessible to underserved children, managing resource allocation and sponsor networks.</p>
     </td>
   </tr>
-</table>
-
-<table width="100%">
   <tr>
-    <td width="25%"></td>
-    <td width="50%" align="center" valign="top">
-      <img src="https://github.com/HammasT1/certificates/blob/main/WOH%20Director.jpeg?raw=true" width="92%" alt="Wall of Hope Ex-Director Certificate" style="border-radius: 8px; border: 1px solid #b19cd9;" />
-      <h3 align="left">🌟 Ex-Director — Wall of Hope</h3>
-      <p align="left">Managed organizational pipelines and public welfare distributions for the Taxila Chapter, leading cross-functional student assistance drives.</p>
+    <td width="20%" align="center" valign="middle">
+      <img src="https://github.com/HammasT1/certificates/blob/main/Senior%20Executive%20Softdesk.jpeg?raw=true" width="100%" alt="Softdesk Senior Executive Certificate" style="border-radius: 6px; border: 1px solid #b19cd9;" />
     </td>
-    <td width="25%"></td>
+    <td width="80%" valign="middle">
+      <h4>💻 Senior Executive — Softdesk</h4>
+      <p>Guiding complex projects, mentoring junior developers in mobile app and system development, and organizing competitive hackathons.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="20%" align="center" valign="middle">
+      <img src="https://github.com/HammasT1/certificates/blob/main/UMC%20Director.jpeg?raw=true" width="100%" alt="UMC Senior Executive Certificate" style="border-radius: 6px; border: 1px solid #b19cd9;" />
+    </td>
+    <td width="80%" valign="middle">
+      <h4>📸 Senior Executive — UMC</h4>
+      <p>Capturing the campus narrative, leading visual media coverage for large-scale symposia, and collaborating on digital asset creation.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="20%" align="center" valign="middle">
+      <img src="https://github.com/HammasT1/certificates/blob/main/WOH%20Director.jpeg?raw=true" width="100%" alt="Wall of Hope Ex-Director Certificate" style="border-radius: 6px; border: 1px solid #b19cd9;" />
+    </td>
+    <td width="80%" valign="middle">
+      <h4>🌟 Ex-Director — Wall of Hope</h4>
+      <p>Managed organizational pipelines and public welfare distributions for the Taxila Chapter, leading cross-functional student assistance drives.</p>
+    </td>
   </tr>
 </table>
 
@@ -232,22 +241,30 @@ Stepping up to empower my community, manage technical systems, and drive social 
   <tr>
     <td width="33%" align="center" valign="top">
       <img src="https://github.com/HammasT1/certificates/blob/main/Github%20certification%202_page-0001.jpg?raw=true" width="100%" alt="Microsoft Certified GitHub Certification" style="border-radius: 8px; border: 1px solid #b19cd9;" />
-      <h4 align="left">Microsoft Certified: GitHub</h4>
-      <p align="left"><b>Issuer:</b> Microsoft / GitHub</p>
-      <p align="left">Verification of advanced proficiency in modern DevOps practices, platform security, and CI/CD pipelines via GitHub Actions.</p>
+      <h4 align="left">GitHub Certification</h4>
+      <p align="left"><b>Issuer:</b> Microsoft / Learn</p>
+      <p align="left">Verification of advanced proficiency in modern DevOps practices, platform security, and CI/CD pipelines.</p>
+      <a href="https://learn.microsoft.com/api/achievements/share/en-us/MUHAMMADHAMMASRASHEED-9890/WMQHJL7N?sharingId=C001B67777293557" target="_blank">
+        <img src="https://img.shields.io/badge/Verify%20Credential-Microsoft_Learn-b19cd9?style=flat-square&logo=microsoft" alt="Verify Certificate"/>
+      </a>
     </td>
     <td width="33%" align="center" valign="top">
       <img src="https://github.com/HammasT1/certificates/blob/main/Github%20certification%204_page-0001.jpg?raw=true" width="100%" alt="Microsoft Certified Git Certification" style="border-radius: 8px; border: 1px solid #b19cd9;" />
-      <h4 align="left">Microsoft Certified: Git</h4>
-      <p align="left"><b>Issuer:</b> Microsoft / GitHub</p>
-      <p align="left">Validation of expertise in distributed version control workflows, repository management, and conflict resolution strategies.</p>
+      <h4 align="left">Git Certification</h4>
+      <p align="left"><b>Issuer:</b> Microsoft / Learn</p>
+      <p align="left">Validation of expertise in distributed version control workflows, repository management, and conflict resolution.</p>
+      <a href="https://learn.microsoft.com/api/achievements/share/en-us/MUHAMMADHAMMASRASHEED-9890/ABDYG9C7?sharingId=C001B67777293557" target="_blank">
+        <img src="https://img.shields.io/badge/Verify%20Credential-Microsoft_Learn-b19cd9?style=flat-square&logo=microsoft" alt="Verify Certificate"/>
+      </a>
     </td>
-    <td width="33%" align="center" valign="top">
-      <img src="https://github.com/HammasT1/certificates/blob/main/Coursera%20Certificate_page-0001.jpg?raw=true" width="100%" alt="Coursera UI/UX Certificate" style="border-radius: 8px; border: 1px solid #b19cd9;" />
+   <td width="33%" align="center" valign="top">
+      <a href="https://coursera.org/verify/F3RV6FWTEUNC" target="_blank">
+        <img src="https://github.com/HammasT1/certificates/blob/main/Coursera%20Certificate_page-0001.jpg?raw=true" width="100%" alt="Coursera Mobile App UI with Moqups Certificate" style="border-radius: 8px; border: 1px solid #b19cd9;" />
+      </a>
       <h4 align="left">Mobile App UI with Moqups</h4>
       <p align="left"><b>Issuer:</b> Coursera (Cleerup)</p>
       <p align="left">Intensive project on wireframing, low-to-high fidelity interactive mockups, and mobile UX architecture.</p>
-      <a href="https://coursera.org/verify/F3RV6FWTEUNC" target="_blank">
+      <a href="https://coursera.org/share/4938d5cfc375c1d7224e8b40ba7fb248" target="_blank">
         <img src="https://img.shields.io/badge/Verify%20Credential-Coursera-b19cd9?style=flat-square&logo=coursera" alt="Verify Certificate"/>
       </a>
     </td>
