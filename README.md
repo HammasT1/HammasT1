@@ -12,12 +12,18 @@
   <a href="#me"><b>Me</b></a> • <a href="#about-me"><b>About</b></a> • <a href="#projects"><b>Projects</b></a> • <a href="#roles"><b>Leadership</b></a> • <a href="#languages-tools"><b>Arsenal</b></a> • <a href="#stats"><b>Metrics</b></a> • <a href="#certifications"><b>Certifications</b></a> • <a href="#wanna-chat"><b>Contact</b></a>
 </p>
 
+<!-- Sleek Interactive Visitor Counter Banner -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=HammasT1&label=PROFILE+VIEWS&color=b19cd9&style=flat-square" alt="HammasT1" />
+  <img src="https://img.shields.io/badge/Visitor_Traffic-Live_&_Active-b19cd9?style=flat-square&logo=livejournal&logoColor=white" alt="Live Traffic" />
+  <img src="https://img.shields.io/badge/Global_Reach-Welcoming_Devs-b19cd9?style=flat-square&logo=ionos&logoColor=white" alt="Global Reach" />
+</p>
+
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=b19cd9&center=true&vCenter=true&width=500&lines=Flutter+Developer;Figma+UI/UX+Designer;FlutterFlow+Expert;Fullstack+Explorer" alt="Typing SVG" />
 </h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=HammasT1&label=PROFILE+VIEWS&color=b19cd9&style=flat-square" alt="HammasT1" />
   <img src="https://img.shields.io/github/followers/HammasT1?color=b19cd9&style=flat-square&logo=github&label=Followers" alt="GitHub Followers" />
   <img src="https://img.shields.io/github/stars/HammasT1?color=b19cd9&style=flat-square&logo=github&label=Total%20Stars" alt="GitHub Stars" />
   <img src="https://img.shields.io/badge/Open_Source-2%20to%203%20Projects-b19cd9?style=flat-square&logo=git&logoColor=white" alt="Open Source Contributor" />
@@ -44,23 +50,23 @@
       <table>
         <tr>
           <td>🔎 <b>Identity:</b></td>
-          <td>HamiDEV &lt;3</td>
+          <td><img src="https://img.shields.io/badge/HamiDEV-%3C3-b19cd9?style=flat-square&logo=flutter&logoColor=white" alt="Identity"></td>
         </tr>
         <tr>
           <td>🎂 <b>Age:</b></td>
-          <td>22 Years</td>
+          <td><img src="https://img.shields.io/badge/22%20Years-Old-b19cd9?style=flat-square&logo=reactivex&logoColor=white" alt="Age"></td>
         </tr>
         <tr>
           <td>🗺️ <b>Origin:</b></td>
-          <td>Pakistan 🇵🇰</td>
+          <td><img src="https://img.shields.io/badge/Pakistan-%F0%9F%87%B5%F0%9F%87%B0-b19cd9?style=flat-square&logo=map&logoColor=white" alt="Origin"></td>
         </tr>
         <tr>
           <td>🗣️ <b>Languages:</b></td>
-          <td>Urdu, English (Learning Russian 🇷🇺)</td>
+          <td><img src="https://img.shields.io/badge/Urdu%20%7C%20English%20%7C%20Russian%20(Learning)-b19cd9?style=flat-square&logo=googletranslate&logoColor=white" alt="Languages"></td>
         </tr>
         <tr>
           <td>💻 <b>Core Stack:</b></td>
-          <td><code>Dart</code> • <code>Python</code> • <code>C++</code></td>
+          <td><img src="https://img.shields.io/badge/Dart_%E2%80%A2_Python_%E2%80%A2_C++-b19cd9?style=flat-square&logo=codeforces&logoColor=white" alt="Core Stack"></td>
         </tr>
       </table>
     </td>
@@ -78,26 +84,31 @@
 
 ## 💡 What I Do
 
-<table width="100%">
+<table width="100%" align="center">
   <tr>
-    <td width="50%" valign="top">
-      <h4>📱 Mobile & Cloud Systems</h4>
-      <ul>
-        <li><b>Cross-Platform Masterclass:</b> Architecting production-grade, pixel-perfect iOS & Android applications using <b>Flutter</b>.</li>
-        <li><b>Advanced State Control:</b> Decoupling business logic with strict implementations of <b>BLoC</b> and <b>Riverpod</b>.</li>
-      </ul>
+    <td width="33%" align="center" valign="top">
+      <img src="https://img.shields.io/badge/📱_MOBILE_ENGINEERING-b19cd9?style=for-the-badge&logoColor=white" alt="Mobile Apps"/>
+      <p align="left">
+        <br>• Architecting pixel-perfect cross-platform applications with <b>Flutter & Dart</b>.<br>
+        • Delivering fluid UI/UX layouts and optimized native performance.
+      </p>
     </td>
-    <td width="50%" valign="top">
-      <h4>🛡️ System Operations & Ops</h4>
-      <ul>
-        <li><b>Security & Analysis:</b> Actively researching mobile application threat vectors, runtime security, and API layer vulnerabilities.</li>
-        <li><b>Development Workspace:</b> OS agnostic, but engineered with a custom-tailored keyboard-driven workflow on <b>Linux</b>.</li>
-      </ul>
+    <td width="33%" align="center" valign="top">
+      <img src="https://img.shields.io/badge/⚙️_STATE_%26_ARCHITECTURE-b19cd9?style=for-the-badge&logoColor=white" alt="Architecture"/>
+      <p align="left">
+        <br>• Decoupling business logic with modular <b>Feature-First Clean Architecture</b>.<br>
+        • Implementing robust state control via <b>BLoC & Riverpod</b>.
+      </p>
+    </td>
+    <td width="33%" align="center" valign="top">
+      <img src="https://img.shields.io/badge/🛡️_SYSTEMS_%26_SECURITY-b19cd9?style=for-the-badge&logoColor=white" alt="Security"/>
+      <p align="left">
+        <br>• Researching runtime security vectors and endpoint vulnerabilities.<br>
+        • Engineering keyboard-driven workflows in <b>Linux & CLI</b> environments.
+      </p>
     </td>
   </tr>
 </table>
-
----
 
 ---
 
@@ -188,7 +199,7 @@ Stepping up to empower my community, manage technical systems, and drive social 
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=b19cd9&center=true&vCenter=true&width=600&lines=🔥+Committed+to+Continuous+Coding+Every+Single+Day;⚡+Building+Robust+Apps+%26+Pushing+Clean+Commits;🚀+Consistent+Contributions+%26+Active+Dev+Workflows" alt="Typing Streak Showcase" />
 </p>
 
-<!-- Stable Markdown Stats & Languages Table Alternative -->
+<!-- Performance Grid Cards -->
 <table align="center" width="100%">
   <tr>
     <td width="50%" align="center" valign="top">
@@ -215,11 +226,6 @@ Stepping up to empower my community, manage technical systems, and drive social 
 <!-- Interactive Dynamic Contribution Activity Graph Chart -->
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=HammasT1&theme=react-dark&bg_color=1a1b26&color=b19cd9&line=b19cd9&point=ffffff&hide_border=true" alt="GitHub Activity Graph" width="98%" />
-</p>
-
-<!-- Animated Developer Metrics Diagram Bar -->
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HammasT1&theme=tokyonight" alt="GitHub Profile Summary Details" width="100%" />
 </p>
 
 ---
@@ -268,11 +274,25 @@ Stepping up to empower my community, manage technical systems, and drive social 
 
 ## 🎯 Progress Tracker
 
-- [x] Master Flutter & Dart
-- [x] Master Linux ecosystem
-- [x] Report serious Vulnerabilities to Companies
-- [ ] **Next:** 20+ Freelance Projects
-- [ ] **Next:** Advanced C++ Systems Programming
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🚀 Completed Milestones</h3>
+      <ul>
+        <li><img src="https://img.shields.io/badge/Mastered-Flutter_%26_Dart-b19cd9?style=flat-square&logo=flutter&logoColor=white" alt="Flutter"></li>
+        <li><img src="https://img.shields.io/badge/Mastered-Linux_Ecosystem-b19cd9?style=flat-square&logo=linux&logoColor=white" alt="Linux"></li>
+        <li><img src="https://img.shields.io/badge/Reported-Vulnerabilities_to_Companies-b19cd9?style=flat-square&logo=security&logoColor=white" alt="Security"></li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>⚡ Upcoming Goals</h3>
+      <ul>
+        <li><img src="https://img.shields.io/badge/Target-20%2B_Freelance_Projects-2d2d2d?style=flat-square&logo=codeforces&logoColor=b19cd9" alt="Freelance"></li>
+        <li><img src="https://img.shields.io/badge/Target-Advanced_C++_Systems_Programming-2d2d2d?style=flat-square&logo=cplusplus&logoColor=b19cd9" alt="C++"></li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -284,6 +304,11 @@ Stepping up to empower my community, manage technical systems, and drive social 
   <a href="mailto:23-CS-98@students.uettaxila.edu.pk">
     <img src="https://img.shields.io/badge/Hire_Me-b19cd9?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+</p>
+
+<!-- Sleek Live Visitor Counter Bar -->
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=HammasT1.HammasT1&left_text=Profile%20Visitors&right_color=b19cd9" alt="Visitor Count" />
 </p>
 
 <p align="center">
