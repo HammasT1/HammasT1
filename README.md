@@ -199,31 +199,31 @@ Stepping up to empower my community, manage technical systems, and drive social 
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=b19cd9&center=true&vCenter=true&width=600&lines=🔥+Committed+to+Continuous+Coding+Every+Single+Day;⚡+Building+Robust+Apps+%26+Pushing+Clean+Commits;🚀+Consistent+Contributions+%26+Active+Dev+Workflows" alt="Typing Streak Showcase" />
 </p>
 
-<!-- Performance Grid Cards -->
+<!-- Rock-Solid Stable Metrics Grid -->
 <table align="center" width="100%">
   <tr>
     <td width="50%" align="center" valign="top">
-      <h3>📈 GitHub Performance</h3>
-      <p>
-        <img src="https://img.shields.io/badge/Total_Contributions-Active-b19cd9?style=flat-square&logo=github&logoColor=white" />
-        <br/><br/>
-        <img src="https://img.shields.io/badge/Core_Ecosystem-Flutter%20%2F%20Dart-b19cd9?style=flat-square&logo=flutter&logoColor=white" />
-        <br/><br/>
-        <img src="https://img.shields.io/badge/Workflow-Clean%20Architecture-b19cd9?style=flat-square&logo=git&logoColor=white" />
+      <h3>📈 Code Ecosystem</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Primary_Framework-Flutter_%2F_%20Dart-b19cd9?style=for-the-badge&logo=flutter&logoColor=white" /><br/><br/>
+        <img src="https://img.shields.io/badge/Architecture-Clean_%2F_BLoC-b19cd9?style=for-the-badge&logo=git&logoColor=white" /><br/><br/>
+        <img src="https://img.shields.io/badge/Workflow-Git_%2F_GitHub-b19cd9?style=for-the-badge&logo=github&logoColor=white" />
       </p>
     </td>
     <td width="50%" align="center" valign="top">
       <h3>💻 Primary Code Stack</h3>
-      <p>
-        <code>Dart / Flutter</code> — Mobile & Web Apps<br/><br/>
-        <code>Python</code> — Automation & AI Pipelines<br/><br/>
-        <code>C++</code> — Systems & Logic Programming
+      <p align="center">
+        <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" /><br/><br/>
+        <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
       </p>
     </td>
   </tr>
 </table>
 
-<!-- Interactive Dynamic Contribution Activity Graph Chart -->
+<!-- Activity Graph -->
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=HammasT1&theme=react-dark&bg_color=1a1b26&color=b19cd9&line=b19cd9&point=ffffff&hide_border=true" alt="GitHub Activity Graph" width="98%" />
 </p>
