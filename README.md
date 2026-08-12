@@ -223,6 +223,11 @@ Stepping up to empower my community, manage technical systems, and drive social 
   </tr>
 </table>
 
+<!-- GitHub Streak Stats (self-generated via GitHub Action — see .github/workflows/streak-stats.yml) -->
+<p align="center">
+  <a href="https://git.io/streak-stats"><img src="https://raw.githubusercontent.com/HammasT1/HammasT1/main/profile/streak.svg" alt="GitHub Streak Stats" width="98%" /></a>
+</p>
+
 <!-- Activity Graph -->
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=HammasT1&theme=react-dark&bg_color=1a1b26&color=b19cd9&line=b19cd9&point=ffffff&hide_border=true" alt="GitHub Activity Graph" width="98%" />
