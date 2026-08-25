@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="#me"><b>Me</b></a> • <a href="#about-me"><b>About</b></a> • <a href="#now"><b>Now</b></a> • <a href="#arsenal"><b>Arsenal</b></a> • <a href="#philosophy"><b>Philosophy</b></a> • <a href="#projects"><b>Projects</b></a> • <a href="#roles"><b>Leadership</b></a> • <a href="#certifications"><b>Certifications</b></a> • <a href="#services"><b>Services</b></a> • <a href="#beyond"><b>Beyond Code</b></a> • <a href="#wanna-chat"><b>Contact</b></a>
+  <a href="#me"><b>Me</b></a> • <a href="#journey"><b>Journey</b></a> • <a href="#now"><b>Now</b></a> • <a href="#arsenal"><b>Arsenal</b></a> • <a href="#philosophy"><b>Philosophy</b></a> • <a href="#projects"><b>Projects</b></a> • <a href="#showcase"><b>Showcase</b></a> • <a href="#roles"><b>Leadership</b></a> • <a href="#certifications"><b>Certifications</b></a> • <a href="#services"><b>Services</b></a> • <a href="#casestudies"><b>Case Studies</b></a> • <a href="#faq"><b>FAQ</b></a> • <a href="#beyond"><b>Beyond Code</b></a> • <a href="#wanna-chat"><b>Contact</b></a>
 </p>
 
 <p align="center">
@@ -19,6 +19,10 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=9D4EDD&center=true&vCenter=true&width=500&lines=Flutter+Developer;Figma+UI/UX+Designer;FlutterFlow+Expert;Fullstack+Explorer" alt="Typing SVG" />
 </h1>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/🟢_Available_for_Freelance_Work-2E7D32?style=for-the-badge&logoColor=white" />
+</p>
 
 <p align="center">
   <a href="https://x.com/Hammashami98"><img src="https://img.shields.io/badge/Twitter-9D4EDD?style=for-the-badge&logo=x&logoColor=white" /></a>
@@ -56,6 +60,37 @@
 <blockquote align="center">
 💡 <b>Fun Fact:</b> I've been breaking (and successfully fixing) production systems and computational code since I was 13!
 </blockquote>
+
+<h6 align="center"><sub>█████████████████████████████████████████████████████████</sub></h6>
+
+<a name="journey"></a>
+
+## 🗺️ My Journey
+
+<table align="center" width="100%">
+  <tr>
+    <td width="20%" align="center" valign="top">
+      <img src="https://img.shields.io/badge/2023-First_Lines_of_Code-9D4EDD?style=for-the-badge&logoColor=white" /><br/><br/>
+      <p align="left">Got admitted into BS Computer Science and wrote my very first program.</p>
+    </td>
+    <td width="20%" align="center" valign="top">
+      <img src="https://img.shields.io/badge/2023-Discovered_Flutter-9D4EDD?style=for-the-badge&logo=flutter&logoColor=white" /><br/><br/>
+      <p align="left">Fell in love with Flutter and shipped my first cross-platform app soon after.</p>
+    </td>
+    <td width="20%" align="center" valign="top">
+      <img src="https://img.shields.io/badge/2024-UI_Clones_%26_Craft-9D4EDD?style=for-the-badge&logoColor=white" /><br/><br/>
+      <p align="left">Rebuilt Starbucks, Ben 10, and Pac-Man in Flutter to master animation and architecture.</p>
+    </td>
+    <td width="20%" align="center" valign="top">
+      <img src="https://img.shields.io/badge/2024%E2%80%9325-Leadership_Roles-9D4EDD?style=for-the-badge&logoColor=white" /><br/><br/>
+      <p align="left">Took on Co-Lead, CSP Head, and Senior Executive roles across university societies.</p>
+    </td>
+    <td width="20%" align="center" valign="top">
+      <img src="https://img.shields.io/badge/Now-Building_%26_Freelancing-6A0DAD?style=for-the-badge&logoColor=C77DFF" /><br/><br/>
+      <p align="left">Focused on production-ready apps, mentoring, and taking on freelance clients.</p>
+    </td>
+  </tr>
+</table>
 
 <h6 align="center"><sub>█████████████████████████████████████████████████████████</sub></h6>
 
@@ -210,6 +245,39 @@
 
 <h6 align="center"><sub>█████████████████████████████████████████████████████████</sub></h6>
 
+<a name="showcase"></a>
+
+## 🎬 App Showcase
+
+<p align="center">
+  <img src="https://img.shields.io/badge/☕_Starbucks_Card_Animation_—_Live_Preview-9D4EDD?style=for-the-badge&logoColor=white" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/HammasT1/starbucks_card_animation/raw/main/images/Starbucks-Card-Animation-GIFr.gif?raw=true" width="70%" style="border-radius: 12px; border: 2px solid #9D4EDD;" />
+</p>
+
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="33%">
+      <img src="https://github.com/HammasT1/starbucks_card_animation/raw/main/images/Home_Screen.png?raw=true" width="100%" style="border-radius: 8px; border: 1px solid #9D4EDD;" /><br/>
+      <sub><b>Home Screen</b></sub>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://github.com/HammasT1/starbucks_card_animation/raw/main/images/Menu_Screen.png?raw=true" width="100%" style="border-radius: 8px; border: 1px solid #9D4EDD;" /><br/>
+      <sub><b>Selection State</b></sub>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://github.com/HammasT1/starbucks_card_animation/raw/main/images/Product_details_Screen.png?raw=true" width="100%" style="border-radius: 8px; border: 1px solid #9D4EDD;" /><br/>
+      <sub><b>Product Details</b></sub>
+    </td>
+  </tr>
+</table>
+
+<p align="center"><i>More GIFs from the Ben 10 Watch and Pac-Man builds coming soon.</i></p>
+
+<h6 align="center"><sub>█████████████████████████████████████████████████████████</sub></h6>
+
 <a name="roles"></a>
 
 ## 🏛️ University Leadership & Society Roles
@@ -329,6 +397,108 @@ Stepping up to empower my community, manage technical systems, and drive social 
 
 <h6 align="center"><sub>█████████████████████████████████████████████████████████</sub></h6>
 
+<a name="casestudies"></a>
+
+## 📈 Case Studies
+
+<table width="100%">
+  <tr>
+    <td width="100%">
+      <img src="https://img.shields.io/badge/⌚_Case_Study_—_Ben_10_Classic_Watch-9D4EDD?style=for-the-badge&logoColor=white" /><br/><br/>
+      <table width="100%">
+        <tr>
+          <td width="33%" valign="top">
+            <img src="https://img.shields.io/badge/Problem-6A0DAD?style=flat-square&logoColor=C77DFF" /><br/><br/>
+            <p align="left">Recreate the iconic Omnitrix interface — rotating dial, hologram-style character selection, and glow effects — as a fully interactive Flutter widget instead of a static image.</p>
+          </td>
+          <td width="33%" valign="top">
+            <img src="https://img.shields.io/badge/Approach-6A0DAD?style=flat-square&logoColor=C77DFF" /><br/><br/>
+            <p align="left">Built custom rotation controllers and gesture detectors from scratch, layered animated transforms for the hologram effect, and kept state isolated per-character for smooth switching.</p>
+          </td>
+          <td width="33%" valign="top">
+            <img src="https://img.shields.io/badge/Result-6A0DAD?style=flat-square&logoColor=C77DFF" /><br/><br/>
+            <p align="left">A fluid, nostalgia-driven UI that demonstrates advanced custom animation work — the kind of polish clients want for branded, character-driven app experiences.</p>
+          </td>
+        </tr>
+      </table>
+      <a href="https://github.com/HammasT1/Ben10_watch_flutter"><img src="https://img.shields.io/badge/View_Repository-9D4EDD?style=for-the-badge&logo=github&logoColor=white" /></a>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<table width="100%">
+  <tr>
+    <td width="100%">
+      <img src="https://img.shields.io/badge/🦠_Case_Study_—_COVID--19_Tracker_App-9D4EDD?style=for-the-badge&logoColor=white" /><br/><br/>
+      <table width="100%">
+        <tr>
+          <td width="33%" valign="top">
+            <img src="https://img.shields.io/badge/Problem-6A0DAD?style=flat-square&logoColor=C77DFF" /><br/><br/>
+            <p align="left">Users needed a fast, clean way to check live COVID-19 case data by country without digging through cluttered news dashboards.</p>
+          </td>
+          <td width="33%" valign="top">
+            <img src="https://img.shields.io/badge/Approach-6A0DAD?style=flat-square&logoColor=C77DFF" /><br/><br/>
+            <p align="left">Consumed a public health API, built a searchable country list, and visualized confirmed/recovered/death stats with clear, glanceable charts.</p>
+          </td>
+          <td width="33%" valign="top">
+            <img src="https://img.shields.io/badge/Result-6A0DAD?style=flat-square&logoColor=C77DFF" /><br/><br/>
+            <p align="left">A lightweight, data-driven Flutter app proving I can take a real-world API and turn it into an app that's genuinely usable under pressure.</p>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
+
+<h6 align="center"><sub>█████████████████████████████████████████████████████████</sub></h6>
+
+<a name="faq"></a>
+
+## ❓ FAQ for Clients
+
+<table width="100%">
+  <tr>
+    <td width="100%">
+      <img src="https://img.shields.io/badge/Q-What_platforms_do_you_build_for%3F-9D4EDD?style=for-the-badge&logoColor=white" /><br/><br/>
+      <p align="left">iOS and Android from a single Flutter codebase — and web or desktop too, if your project needs it.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="100%">
+      <img src="https://img.shields.io/badge/Q-Do_you_handle_the_backend_too%3F-9D4EDD?style=for-the-badge&logoColor=white" /><br/><br/>
+      <p align="left">Yes — Firebase, Supabase, and REST API integrations are all part of what I offer, so you don't need a separate backend developer for smaller apps.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="100%">
+      <img src="https://img.shields.io/badge/Q-How_long_does_a_typical_project_take%3F-9D4EDD?style=for-the-badge&logoColor=white" /><br/><br/>
+      <p align="left">Depends on scope — a simple single-screen app can take 1-2 weeks, while a full-featured production app usually runs 4-8 weeks. I'll give you a clear timeline after understanding your requirements.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="100%">
+      <img src="https://img.shields.io/badge/Q-Do_you_sign_NDAs%3F-9D4EDD?style=for-the-badge&logoColor=white" /><br/><br/>
+      <p align="left">Absolutely. I'm happy to sign an NDA before we discuss any project details.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="100%">
+      <img src="https://img.shields.io/badge/Q-Do_you_offer_post--launch_support%3F-9D4EDD?style=for-the-badge&logoColor=white" /><br/><br/>
+      <p align="left">Yes — bug fixes, small updates, and ongoing maintenance packages are available after delivery.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="100%">
+      <img src="https://img.shields.io/badge/Q-What_does_your_process_look_like%3F-9D4EDD?style=for-the-badge&logoColor=white" /><br/><br/>
+      <p align="left">Discovery call → scope & wireframes → development sprints with regular check-ins → testing → deployment → handover and support.</p>
+    </td>
+  </tr>
+</table>
+
+<h6 align="center"><sub>█████████████████████████████████████████████████████████</sub></h6>
+
 <a name="beyond"></a>
 
 ## 🎮 Beyond the Code
@@ -392,6 +562,12 @@ Stepping up to empower my community, manage technical systems, and drive social 
 <p align="center">
   <a href="mailto:23-CS-98@students.uettaxila.edu.pk">
     <img src="https://img.shields.io/badge/Hire_Me-9D4EDD?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://www.buymeacoffee.com/hammasrasheed">
+    <img src="https://img.shields.io/badge/☕_Buy_Me_a_Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black" />
   </a>
 </p>
 
