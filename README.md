@@ -66,19 +66,19 @@
 <table align="center" width="100%">
   <tr>
     <td width="25%" align="center" valign="top">
-      <h4>🛠️ Building</h4>
+      <img src="https://img.shields.io/badge/🛠️_Building-9D4EDD?style=for-the-badge&logoColor=white" /><br/><br/>
       <p align="left">Production-grade Flutter apps with Clean Architecture and real backend integrations.</p>
     </td>
     <td width="25%" align="center" valign="top">
-      <h4>📚 Learning</h4>
+      <img src="https://img.shields.io/badge/📚_Learning-9D4EDD?style=for-the-badge&logoColor=white" /><br/><br/>
       <p align="left">Advanced C++ systems programming and deeper backend/API design patterns.</p>
     </td>
     <td width="25%" align="center" valign="top">
-      <h4>🤝 Open To</h4>
+      <img src="https://img.shields.io/badge/🤝_Open_To-9D4EDD?style=for-the-badge&logoColor=white" /><br/><br/>
       <p align="left">Freelance Flutter contracts, remote collaborations, and long-term opportunities.</p>
     </td>
     <td width="25%" align="center" valign="top">
-      <h4>⚡ Status</h4>
+      <img src="https://img.shields.io/badge/⚡_Status-9D4EDD?style=for-the-badge&logoColor=white" /><br/><br/>
       <p align="left">Actively shipping and available for new projects.</p>
     </td>
   </tr>
@@ -148,19 +148,19 @@
 <table align="center" width="100%">
   <tr>
     <td width="25%" align="center" valign="top">
-      <h4>🧱 Build It Clean</h4>
+      <img src="https://img.shields.io/badge/🧱_Build_It_Clean-9D4EDD?style=for-the-badge&logoColor=white" /><br/><br/>
       <p align="left">Every feature lives in its own layer — no tangled logic, no surprises six months later.</p>
     </td>
     <td width="25%" align="center" valign="top">
-      <h4>🔍 Question Everything</h4>
+      <img src="https://img.shields.io/badge/🔍_Question_Everything-9D4EDD?style=for-the-badge&logoColor=white" /><br/><br/>
       <p align="left">A security researcher's instinct: assume nothing is safe until it's tested.</p>
     </td>
     <td width="25%" align="center" valign="top">
-      <h4>🎨 Design First</h4>
+      <img src="https://img.shields.io/badge/🎨_Design_First-9D4EDD?style=for-the-badge&logoColor=white" /><br/><br/>
       <p align="left">Pixel-level care in UI, because how an app feels matters as much as how it runs.</p>
     </td>
     <td width="25%" align="center" valign="top">
-      <h4>🤲 Give Back</h4>
+      <img src="https://img.shields.io/badge/🤲_Give_Back-9D4EDD?style=for-the-badge&logoColor=white" /><br/><br/>
       <p align="left">Mentoring juniors and leading student communities isn't a side note — it's core to how I grow.</p>
     </td>
   </tr>
@@ -174,27 +174,36 @@
 
 <table width="100%">
   <tr>
-    <td width="30%" align="center"><h4>☕ starbucks_Flutter</h4></td>
+    <td width="30%" align="center">
+      <img src="https://img.shields.io/badge/☕_starbucks__Flutter-9D4EDD?style=for-the-badge&logoColor=white" />
+    </td>
     <td width="70%">
       A feature-rich Starbucks mobile app UI replica built with Flutter, showcasing custom product menus, seamless ordering flows, and polished styling.<br><br>
-      <b>Stack:</b> Flutter • Dart<br>
-      <a href="https://github.com/HammasT1/starbucks_card_animation"><b>→ View Repository</b></a>
+      <img src="https://img.shields.io/badge/Flutter-9D4EDD?style=flat-square&logo=flutter&logoColor=white" />
+      <img src="https://img.shields.io/badge/Dart-9D4EDD?style=flat-square&logo=dart&logoColor=white" /><br><br>
+      <a href="https://github.com/HammasT1/starbucks_card_animation"><img src="https://img.shields.io/badge/View_Repository-9D4EDD?style=for-the-badge&logo=github&logoColor=white" /></a>
     </td>
   </tr>
   <tr>
-    <td width="30%" align="center"><h4>⌚ Ben10_watch_Flutter</h4></td>
+    <td width="30%" align="center">
+      <img src="https://img.shields.io/badge/⌚_Ben10__watch__Flutter-9D4EDD?style=for-the-badge&logoColor=white" />
+    </td>
     <td width="70%">
       An interactive Omnitrix watch interface crafted in Flutter featuring nostalgic animations, custom rotating UI mechanics, and dynamic states.<br><br>
-      <b>Stack:</b> Flutter • Dart<br>
-      <a href="https://github.com/HammasT1/Ben10_watch_flutter"><b>→ View Repository</b></a>
+      <img src="https://img.shields.io/badge/Flutter-9D4EDD?style=flat-square&logo=flutter&logoColor=white" />
+      <img src="https://img.shields.io/badge/Dart-9D4EDD?style=flat-square&logo=dart&logoColor=white" /><br><br>
+      <a href="https://github.com/HammasT1/Ben10_watch_flutter"><img src="https://img.shields.io/badge/View_Repository-9D4EDD?style=for-the-badge&logo=github&logoColor=white" /></a>
     </td>
   </tr>
   <tr>
-    <td width="30%" align="center"><h4>🕹️ Pacman_Flutter</h4></td>
+    <td width="30%" align="center">
+      <img src="https://img.shields.io/badge/🕹️_Pacman__Flutter-9D4EDD?style=for-the-badge&logoColor=white" />
+    </td>
     <td width="70%">
       A fully functional clone of the classic arcade game Pac-Man built from scratch using Flutter with custom grid rendering and game loops.<br><br>
-      <b>Stack:</b> Flutter • Dart<br>
-      <a href="https://github.com/HammasT1/Pacman_Flutter"><b>→ View Repository</b></a>
+      <img src="https://img.shields.io/badge/Flutter-9D4EDD?style=flat-square&logo=flutter&logoColor=white" />
+      <img src="https://img.shields.io/badge/Dart-9D4EDD?style=flat-square&logo=dart&logoColor=white" /><br><br>
+      <a href="https://github.com/HammasT1/Pacman_Flutter"><img src="https://img.shields.io/badge/View_Repository-9D4EDD?style=for-the-badge&logo=github&logoColor=white" /></a>
     </td>
   </tr>
 </table>
@@ -213,7 +222,7 @@ Stepping up to empower my community, manage technical systems, and drive social 
       <img src="https://github.com/HammasT1/certificates/blob/main/MLSA%20Colead.png?raw=true" width="100%" alt="MLSA Co-Lead Appointment Certificate" style="border-radius: 6px; border: 1px solid #9D4EDD;" />
     </td>
     <td width="80%" valign="middle">
-      <h4>🚀 Co-Lead — MLSA Club</h4>
+      <img src="https://img.shields.io/badge/🚀_Co--Lead_—_MLSA_Club-9D4EDD?style=for-the-badge&logoColor=white" /><br/><br/>
       <p>Spearheading the core tech community at UET Taxila, driving technical engagement, bootcamps, and building a collaborative culture around Microsoft's ecosystem.</p>
     </td>
   </tr>
@@ -222,7 +231,7 @@ Stepping up to empower my community, manage technical systems, and drive social 
       <img src="https://github.com/HammasT1/certificates/blob/main/CSP%20Head%20UES.jpeg?raw=true" width="100%" alt="UMEED-E-SUBH CSP Head Certificate" style="border-radius: 6px; border: 1px solid #9D4EDD;" />
     </td>
     <td width="80%" valign="middle">
-      <h4>🤝 CSP Head — UMEED-E-SUBH</h4>
+      <img src="https://img.shields.io/badge/🤝_CSP_Head_—_UMEED--E--SUBH-9D4EDD?style=for-the-badge&logoColor=white" /><br/><br/>
       <p>Directing impactful welfare campaigns making education accessible to underserved children, managing resource allocation and sponsor networks.</p>
     </td>
   </tr>
@@ -231,7 +240,7 @@ Stepping up to empower my community, manage technical systems, and drive social 
       <img src="https://github.com/HammasT1/certificates/blob/main/Senior%20Executive%20Softdesk.jpeg?raw=true" width="100%" alt="Softdesk Senior Executive Certificate" style="border-radius: 6px; border: 1px solid #9D4EDD;" />
     </td>
     <td width="80%" valign="middle">
-      <h4>💻 Senior Executive — Softdesk</h4>
+      <img src="https://img.shields.io/badge/💻_Senior_Executive_—_Softdesk-9D4EDD?style=for-the-badge&logoColor=white" /><br/><br/>
       <p>Guiding complex projects, mentoring junior developers in mobile app and system development, and organizing competitive hackathons.</p>
     </td>
   </tr>
@@ -240,7 +249,7 @@ Stepping up to empower my community, manage technical systems, and drive social 
       <img src="https://github.com/HammasT1/certificates/blob/main/UMC%20Director.jpeg?raw=true" width="100%" alt="UMC Senior Executive Certificate" style="border-radius: 6px; border: 1px solid #9D4EDD;" />
     </td>
     <td width="80%" valign="middle">
-      <h4>📸 Senior Executive — UMC</h4>
+      <img src="https://img.shields.io/badge/📸_Senior_Executive_—_UMC-9D4EDD?style=for-the-badge&logoColor=white" /><br/><br/>
       <p>Capturing the campus narrative, leading visual media coverage for large-scale symposia, and collaborating on digital asset creation.</p>
     </td>
   </tr>
@@ -249,7 +258,7 @@ Stepping up to empower my community, manage technical systems, and drive social 
       <img src="https://github.com/HammasT1/certificates/blob/main/WOH%20Director.jpeg?raw=true" width="100%" alt="Wall of Hope Ex-Director Certificate" style="border-radius: 6px; border: 1px solid #9D4EDD;" />
     </td>
     <td width="80%" valign="middle">
-      <h4>🌟 Ex-Director — Wall of Hope</h4>
+      <img src="https://img.shields.io/badge/🌟_Ex--Director_—_Wall_of_Hope-9D4EDD?style=for-the-badge&logoColor=white" /><br/><br/>
       <p>Managed organizational pipelines and public welfare distributions for the Taxila Chapter, leading cross-functional student assistance drives.</p>
     </td>
   </tr>
@@ -265,26 +274,26 @@ Stepping up to empower my community, manage technical systems, and drive social 
   <tr>
     <td width="33%" align="center" valign="top">
       <img src="https://github.com/HammasT1/certificates/blob/main/Github%20certification%202_page-0001.jpg?raw=true" width="100%" alt="Microsoft Certified GitHub Certification" style="border-radius: 8px; border: 1px solid #9D4EDD;" />
-      <h4 align="left">GitHub Certification</h4>
-      <p align="left"><b>Issuer:</b> Microsoft / Learn</p>
+      <img src="https://img.shields.io/badge/GitHub_Certification-9D4EDD?style=for-the-badge&logo=github&logoColor=white" /><br/><br/>
+      <img src="https://img.shields.io/badge/Issuer-Microsoft_Learn-6A0DAD?style=flat-square&logo=microsoft&logoColor=C77DFF" /><br/><br/>
       <p align="left">Verification of advanced proficiency in modern DevOps practices, platform security, and CI/CD pipelines.</p>
-      <a href="https://learn.microsoft.com/api/achievements/share/en-us/MUHAMMADHAMMASRASHEED-9890/WMQHJL7N?sharingId=C001B67777293557" target="_blank"><b>→ Verify Credential</b></a>
+      <a href="https://learn.microsoft.com/api/achievements/share/en-us/MUHAMMADHAMMASRASHEED-9890/WMQHJL7N?sharingId=C001B67777293557" target="_blank"><img src="https://img.shields.io/badge/Verify_Credential-6A0DAD?style=for-the-badge&logo=letsencrypt&logoColor=C77DFF" /></a>
     </td>
     <td width="33%" align="center" valign="top">
       <img src="https://github.com/HammasT1/certificates/blob/main/Github%20certification%204_page-0001.jpg?raw=true" width="100%" alt="Microsoft Certified Git Certification" style="border-radius: 8px; border: 1px solid #9D4EDD;" />
-      <h4 align="left">Git Certification</h4>
-      <p align="left"><b>Issuer:</b> Microsoft / Learn</p>
+      <img src="https://img.shields.io/badge/Git_Certification-9D4EDD?style=for-the-badge&logo=git&logoColor=white" /><br/><br/>
+      <img src="https://img.shields.io/badge/Issuer-Microsoft_Learn-6A0DAD?style=flat-square&logo=microsoft&logoColor=C77DFF" /><br/><br/>
       <p align="left">Validation of expertise in distributed version control workflows, repository management, and conflict resolution.</p>
-      <a href="https://learn.microsoft.com/api/achievements/share/en-us/MUHAMMADHAMMASRASHEED-9890/ABDYG9C7?sharingId=C001B67777293557" target="_blank"><b>→ Verify Credential</b></a>
+      <a href="https://learn.microsoft.com/api/achievements/share/en-us/MUHAMMADHAMMASRASHEED-9890/ABDYG9C7?sharingId=C001B67777293557" target="_blank"><img src="https://img.shields.io/badge/Verify_Credential-6A0DAD?style=for-the-badge&logo=letsencrypt&logoColor=C77DFF" /></a>
     </td>
    <td width="33%" align="center" valign="top">
       <a href="https://coursera.org/verify/F3RV6FWTEUNC" target="_blank">
         <img src="https://github.com/HammasT1/certificates/blob/main/Coursera%20Certificate_page-0001.jpg?raw=true" width="100%" alt="Coursera Mobile App UI with Moqups Certificate" style="border-radius: 8px; border: 1px solid #9D4EDD;" />
       </a>
-      <h4 align="left">Mobile App UI with Moqups</h4>
-      <p align="left"><b>Issuer:</b> Coursera (Cleerup)</p>
+      <img src="https://img.shields.io/badge/Mobile_App_UI_with_Moqups-9D4EDD?style=for-the-badge&logo=coursera&logoColor=white" /><br/><br/>
+      <img src="https://img.shields.io/badge/Issuer-Coursera_(Cleerup)-6A0DAD?style=flat-square&logo=coursera&logoColor=C77DFF" /><br/><br/>
       <p align="left">Intensive project on wireframing, low-to-high fidelity interactive mockups, and mobile UX architecture.</p>
-      <a href="https://coursera.org/share/4938d5cfc375c1d7224e8b40ba7fb248" target="_blank"><b>→ Verify Credential</b></a>
+      <a href="https://coursera.org/share/4938d5cfc375c1d7224e8b40ba7fb248" target="_blank"><img src="https://img.shields.io/badge/Verify_Credential-6A0DAD?style=for-the-badge&logo=letsencrypt&logoColor=C77DFF" /></a>
     </td>
   </tr>
 </table>
@@ -298,19 +307,19 @@ Stepping up to empower my community, manage technical systems, and drive social 
 <table width="100%" align="center">
   <tr>
     <td width="25%" align="center" valign="top">
-      <h4>📲 Cross-Platform Apps</h4>
+      <img src="https://img.shields.io/badge/📲_Cross--Platform_Apps-9D4EDD?style=for-the-badge&logoColor=white" /><br/><br/>
       <p align="left">End-to-end Flutter apps for iOS & Android from a single codebase, ready for the Play Store and App Store.</p>
     </td>
     <td width="25%" align="center" valign="top">
-      <h4>🔌 API & Backend Integration</h4>
+      <img src="https://img.shields.io/badge/🔌_API_%26_Backend-9D4EDD?style=for-the-badge&logoColor=white" /><br/><br/>
       <p align="left">Firebase, Supabase, and REST API integrations with clean, testable data layers.</p>
     </td>
     <td width="25%" align="center" valign="top">
-      <h4>🎨 UI/UX to Code</h4>
+      <img src="https://img.shields.io/badge/🎨_UI%2FUX_to_Code-9D4EDD?style=for-the-badge&logoColor=white" /><br/><br/>
       <p align="left">Turning Figma or Moqups designs into pixel-perfect, animated Flutter interfaces.</p>
     </td>
     <td width="25%" align="center" valign="top">
-      <h4>🧩 App Maintenance</h4>
+      <img src="https://img.shields.io/badge/🧩_App_Maintenance-9D4EDD?style=for-the-badge&logoColor=white" /><br/><br/>
       <p align="left">Refactoring, bug fixes, and performance tuning for existing Flutter codebases.</p>
     </td>
   </tr>
@@ -327,19 +336,19 @@ Stepping up to empower my community, manage technical systems, and drive social 
 <table align="center" width="100%">
   <tr>
     <td width="25%" align="center" valign="top">
-      <h4>🕹️ Retro Recreations</h4>
+      <img src="https://img.shields.io/badge/🕹️_Retro_Recreations-9D4EDD?style=for-the-badge&logoColor=white" /><br/><br/>
       <p align="left">Rebuilding childhood favorites like Pac-Man and Ben 10's Omnitrix from scratch, just to see how they tick.</p>
     </td>
     <td width="25%" align="center" valign="top">
-      <h4>🔐 Ethical Hacking</h4>
+      <img src="https://img.shields.io/badge/🔐_Ethical_Hacking-9D4EDD?style=for-the-badge&logoColor=white" /><br/><br/>
       <p align="left">Poking at systems to find and responsibly report vulnerabilities before the bad guys do.</p>
     </td>
     <td width="25%" align="center" valign="top">
-      <h4>🐧 Linux Tinkering</h4>
+      <img src="https://img.shields.io/badge/🐧_Linux_Tinkering-9D4EDD?style=for-the-badge&logoColor=white" /><br/><br/>
       <p align="left">Living in the terminal, customizing workflows, and always chasing a cleaner setup.</p>
     </td>
     <td width="25%" align="center" valign="top">
-      <h4>🎤 Community Building</h4>
+      <img src="https://img.shields.io/badge/🎤_Community_Building-9D4EDD?style=for-the-badge&logoColor=white" /><br/><br/>
       <p align="left">Organizing bootcamps and hackathons that turn students into builders.</p>
     </td>
   </tr>
@@ -400,5 +409,5 @@ Stepping up to empower my community, manage technical systems, and drive social 
 
 <br />
 <p align="center">
-  <a href="#top">⬆ Back to Top</a>
+  <a href="#top"><img src="https://img.shields.io/badge/⬆_Back_to_Top-6A0DAD?style=for-the-badge&logoColor=C77DFF" /></a>
 </p>
