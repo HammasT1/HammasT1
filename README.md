@@ -52,7 +52,7 @@
       </table>
     </td>
     <td width="40%" align="center" valign="middle">
-       <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXp4Y3BqbmR0amN0Z3R6Z3Z6Z3Z6Z3Z6Z3Z6Z3Z6Z3Z6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="260" style="border-radius: 12px; border: 2px solid #9D4EDD; display: block; max-width: 100%;" />
+       <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXp4Y3BqbmR0amN0Z3R6Z3Z6Z3Z6Z3Z6Z3Z6Z3Z6Z3Z6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="200" style="border-radius: 12px; border: 2px solid #9D4EDD; display: block; max-width: 100%;" />
     </td>
   </tr>
 </table>
@@ -254,22 +254,64 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/HammasT1/starbucks_card_animation/raw/main/images/Starbucks-Card-Animation-GIFr.gif?raw=true" width="320" style="border-radius: 12px; border: 2px solid #9D4EDD; max-width: 100%;" />
+  <img src="https://github.com/HammasT1/starbucks_card_animation/raw/main/images/Starbucks-Card-Animation-GIFr.gif?raw=true" width="200" style="border-radius: 12px; border: 2px solid #9D4EDD; max-width: 100%;" />
 </p>
 
 <table align="center" width="100%">
   <tr>
     <td align="center" width="33%">
-      <img src="https://github.com/HammasT1/starbucks_card_animation/raw/main/images/Home_Screen.png?raw=true" width="100%" style="border-radius: 8px; border: 1px solid #9D4EDD;" /><br/>
+      <img src="https://github.com/HammasT1/starbucks_card_animation/raw/main/images/Home_Screen.png?raw=true" width="150" style="border-radius: 8px; border: 1px solid #9D4EDD; max-width: 100%;" /><br/>
       <sub><b>Home Screen</b></sub>
     </td>
     <td align="center" width="33%">
-      <img src="https://github.com/HammasT1/starbucks_card_animation/raw/main/images/Menu_Screen.png?raw=true" width="100%" style="border-radius: 8px; border: 1px solid #9D4EDD;" /><br/>
+      <img src="https://github.com/HammasT1/starbucks_card_animation/raw/main/images/Menu_Screen.png?raw=true" width="150" style="border-radius: 8px; border: 1px solid #9D4EDD; max-width: 100%;" /><br/>
       <sub><b>Selection State</b></sub>
     </td>
     <td align="center" width="33%">
-      <img src="https://github.com/HammasT1/starbucks_card_animation/raw/main/images/Product_details_Screen.png?raw=true" width="100%" style="border-radius: 8px; border: 1px solid #9D4EDD;" /><br/>
+      <img src="https://github.com/HammasT1/starbucks_card_animation/raw/main/images/Product_details_Screen.png?raw=true" width="150" style="border-radius: 8px; border: 1px solid #9D4EDD; max-width: 100%;" /><br/>
       <sub><b>Product Details</b></sub>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/🍕_Pizzaro_—_Live_Preview-9D4EDD?style=for-the-badge&logoColor=white" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/HammasT1/Pizzaro/raw/main/assets/images/pizzas/pizzaro-GIF-compressed.gif?raw=true" width="200" style="border-radius: 12px; border: 2px solid #9D4EDD; max-width: 100%;" />
+</p>
+
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://github.com/HammasT1/Pizzaro/raw/main/assets/images/pizzas/main-screen.jpeg?raw=true" width="180" style="border-radius: 8px; border: 1px solid #9D4EDD; max-width: 100%;" /><br/>
+      <sub><b>Main Screen</b></sub>
+    </td>
+    <td align="center" width="50%">
+      <img src="https://github.com/HammasT1/Pizzaro/raw/main/assets/images/pizzas/Menu-screen.jpeg?raw=true" width="180" style="border-radius: 8px; border: 1px solid #9D4EDD; max-width: 100%;" /><br/>
+      <sub><b>Menu Screen</b></sub>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/🥤_Pour_—_Live_Preview-9D4EDD?style=for-the-badge&logoColor=white" />
+</p>
+
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://github.com/HammasT1/pour_flutter/raw/main/assets/carousel.png?raw=true" width="220" style="border-radius: 8px; border: 1px solid #9D4EDD; max-width: 100%;" /><br/>
+      <sub><b>Bottle Carousel</b></sub>
+    </td>
+    <td align="center" width="50%">
+      <img src="https://github.com/HammasT1/pour_flutter/raw/main/assets/pour.png?raw=true" width="220" style="border-radius: 8px; border: 1px solid #9D4EDD; max-width: 100%;" /><br/>
+      <sub><b>Pour in Motion</b></sub>
     </td>
   </tr>
 </table>
@@ -446,6 +488,88 @@ Stepping up to empower my community, manage technical systems, and drive social 
           </td>
         </tr>
       </table>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<table width="100%">
+  <tr>
+    <td width="100%">
+      <img src="https://img.shields.io/badge/🪐_Case_Study_—_Solar_System_(Flutter)-9D4EDD?style=for-the-badge&logoColor=white" /><br/><br/>
+      <table width="100%">
+        <tr>
+          <td width="33%" valign="top">
+            <img src="https://img.shields.io/badge/Problem-6A0DAD?style=flat-square&logoColor=C77DFF" /><br/><br/>
+            <p align="left">Static space-facts pages don't help people intuitively grasp orbital motion, scale, or how the planets relate to each other.</p>
+          </td>
+          <td width="33%" valign="top">
+            <img src="https://img.shields.io/badge/Approach-6A0DAD?style=flat-square&logoColor=C77DFF" /><br/><br/>
+            <p align="left">Built custom animated orbit paths and layered transforms to simulate planetary motion in real time, then deployed it as a live interactive web build.</p>
+          </td>
+          <td width="33%" valign="top">
+            <img src="https://img.shields.io/badge/Result-6A0DAD?style=flat-square&logoColor=C77DFF" /><br/><br/>
+            <p align="left">A live, shareable demo that shows both custom animation skill and the ability to ship a Flutter project to the web.</p>
+          </td>
+        </tr>
+      </table>
+      <a href="https://solar-system-flutter.vercel.app"><img src="https://img.shields.io/badge/View_Live_Demo-9D4EDD?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+      <a href="https://github.com/HammasT1/solar_system_flutter"><img src="https://img.shields.io/badge/View_Repository-9D4EDD?style=for-the-badge&logo=github&logoColor=white" /></a>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<table width="100%">
+  <tr>
+    <td width="100%">
+      <img src="https://img.shields.io/badge/🍕_Case_Study_—_Pizzaro-9D4EDD?style=for-the-badge&logoColor=white" /><br/><br/>
+      <table width="100%">
+        <tr>
+          <td width="33%" valign="top">
+            <img src="https://img.shields.io/badge/Problem-6A0DAD?style=flat-square&logoColor=C77DFF" /><br/><br/>
+            <p align="left">Most food-ordering menus are flat lists — tap, add, checkout. Nothing about the interaction makes the product feel worth ordering.</p>
+          </td>
+          <td width="33%" valign="top">
+            <img src="https://img.shields.io/badge/Approach-6A0DAD?style=flat-square&logoColor=C77DFF" /><br/><br/>
+            <p align="left">Built a Hero-flight detail screen with a drag-to-rotate, perspective-transformed "3D" pizza viewer, elastic size transitions, and a sequenced reveal — all using Flutter's native animation APIs, no third-party animation packages, on a clean domain/data/presentation architecture with Riverpod.</p>
+          </td>
+          <td width="33%" valign="top">
+            <img src="https://img.shields.io/badge/Result-6A0DAD?style=flat-square&logoColor=C77DFF" /><br/><br/>
+            <p align="left">A production-style ordering flow that feels tactile and premium — proof I can hand-build complex motion design instead of leaning on animation libraries, with a repository layer ready to swap in a real backend.</p>
+          </td>
+        </tr>
+      </table>
+      <a href="https://github.com/HammasT1/Pizzaro"><img src="https://img.shields.io/badge/View_Repository-9D4EDD?style=for-the-badge&logo=github&logoColor=white" /></a>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<table width="100%">
+  <tr>
+    <td width="100%">
+      <img src="https://img.shields.io/badge/🥤_Case_Study_—_Pour-9D4EDD?style=for-the-badge&logoColor=white" /><br/><br/>
+      <table width="100%">
+        <tr>
+          <td width="33%" valign="top">
+            <img src="https://img.shields.io/badge/Problem-6A0DAD?style=flat-square&logoColor=C77DFF" /><br/><br/>
+            <p align="left">A drink-selection screen is usually just a static list — it doesn't sell the product the way a real cold-drink ad does.</p>
+          </td>
+          <td width="33%" valign="top">
+            <img src="https://img.shields.io/badge/Approach-6A0DAD?style=flat-square&logoColor=C77DFF" /><br/><br/>
+            <p align="left">Built a swipeable bottle carousel, a tilt-to-pour animation with real fill math (volume relative to cup capacity), a custom-painted liquid surface with a sine-wave top, and a full-screen color wash with ambient bubbles — all state-driven through a single Riverpod StateNotifier.</p>
+          </td>
+          <td width="33%" valign="top">
+            <img src="https://img.shields.io/badge/Result-6A0DAD?style=flat-square&logoColor=C77DFF" /><br/><br/>
+            <p align="left">A genuinely ad-quality micro-experience with custom rendering (CustomPainter, CustomClipper) and haptic feedback — the kind of polish that makes a client's product screen memorable instead of forgettable.</p>
+          </td>
+        </tr>
+      </table>
+      <a href="https://github.com/HammasT1/pour_flutter"><img src="https://img.shields.io/badge/View_Repository-9D4EDD?style=for-the-badge&logo=github&logoColor=white" /></a>
     </td>
   </tr>
 </table>
