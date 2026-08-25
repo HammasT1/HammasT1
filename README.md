@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/HammasT1/certificates/blob/main/Professional%20Github%20Banner.png?raw=true" width="100%" />
+  <img src="https://github.com/HammasT1/Certifications/blob/main/Linkedin%20Banner.png?raw=true" width="100%" />
 </p>
 
 <a name="top"></a>
@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="#me"><b>Me</b></a> • <a href="#journey"><b>Journey</b></a> • <a href="#now"><b>Now</b></a> • <a href="#arsenal"><b>Arsenal</b></a> • <a href="#philosophy"><b>Philosophy</b></a> • <a href="#projects"><b>Projects</b></a> • <a href="#showcase"><b>Showcase</b></a> • <a href="#roles"><b>Leadership</b></a> • <a href="#certifications"><b>Certifications</b></a> • <a href="#services"><b>Services</b></a> • <a href="#casestudies"><b>Case Studies</b></a> • <a href="#faq"><b>FAQ</b></a> • <a href="#beyond"><b>Beyond Code</b></a> • <a href="#wanna-chat"><b>Contact</b></a>
+  <a href="#me"><b>Me</b></a> • <a href="#journey"><b>Journey</b></a> • <a href="#now"><b>Now</b></a> • <a href="#arsenal"><b>Arsenal</b></a> • <a href="#philosophy"><b>Philosophy</b></a> • <a href="#projects"><b>Projects</b></a> • <a href="#showcase"><b>Showcase</b></a> • <a href="#roles"><b>Leadership</b></a> • <a href="#certifications"><b>Certifications</b></a> • <a href="#services"><b>Services</b></a> • <a href="#casestudies"><b>Case Studies</b></a> • <a href="#faq"><b>FAQ</b></a> • <a href="#beyond"><b>Beyond Code</b></a> • <a href="#stats"><b>Stats</b></a> • <a href="#wanna-chat"><b>Contact</b></a>
 </p>
 
 <p align="center">
@@ -52,7 +52,7 @@
       </table>
     </td>
     <td width="40%" align="center" valign="middle">
-       <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXp4Y3BqbmR0amN0Z3R6Z3Z6Z3Z6Z3Z6Z3Z6Z3Z6Z3Z6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" style="border-radius: 12px; border: 2px solid #9D4EDD; display: block;" />
+       <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXp4Y3BqbmR0amN0Z3R6Z3Z6Z3Z6Z3Z6Z3Z6Z3Z6Z3Z6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="260" style="border-radius: 12px; border: 2px solid #9D4EDD; display: block; max-width: 100%;" />
     </td>
   </tr>
 </table>
@@ -254,7 +254,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/HammasT1/starbucks_card_animation/raw/main/images/Starbucks-Card-Animation-GIFr.gif?raw=true" width="70%" style="border-radius: 12px; border: 2px solid #9D4EDD;" />
+  <img src="https://github.com/HammasT1/starbucks_card_animation/raw/main/images/Starbucks-Card-Animation-GIFr.gif?raw=true" width="320" style="border-radius: 12px; border: 2px solid #9D4EDD; max-width: 100%;" />
 </p>
 
 <table align="center" width="100%">
@@ -273,8 +273,6 @@
     </td>
   </tr>
 </table>
-
-<p align="center"><i>More GIFs from the Ben 10 Watch and Pac-Man builds coming soon.</i></p>
 
 <h6 align="center"><sub>█████████████████████████████████████████████████████████</sub></h6>
 
@@ -526,11 +524,26 @@ Stepping up to empower my community, manage technical systems, and drive social 
 
 <h6 align="center"><sub>█████████████████████████████████████████████████████████</sub></h6>
 
+<a name="stats"></a>
+
+## 📊 Activity & Metrics
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=9D4EDD&center=true&vCenter=true&width=600&lines=🔥+Committed+to+Continuous+Coding+Every+Single+Day;⚡+Building+Robust+Apps+%26+Pushing+Clean+Commits;🚀+Consistent+Contributions+%26+Active+Dev+Workflows" alt="Typing Streak Showcase" />
+</p>
+
+<p align="center">
+  <a href="https://git.io/streak-stats"><img src="https://raw.githubusercontent.com/HammasT1/HammasT1/main/profile/streak.svg" alt="GitHub Streak Stats" width="98%" /></a>
+</p>
+
+<h6 align="center"><sub>█████████████████████████████████████████████████████████</sub></h6>
+
 <a name="milestones"></a>
 
 ## 🎯 Progress Tracker
 
 <table width="100%">
+
   <tr>
     <td width="50%" align="center" valign="top">
       <h3>🚀 Completed Milestones</h3>
