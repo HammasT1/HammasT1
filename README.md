@@ -253,22 +253,22 @@
   <img src="https://img.shields.io/badge/☕_Starbucks_Card_Animation_—_Live_Preview-9D4EDD?style=for-the-badge&logoColor=white" />
 </p>
 
-<p align="center">
-  <img src="https://github.com/HammasT1/starbucks_card_animation/raw/main/images/Starbucks-Card-Animation-GIFr.gif?raw=true" width="200" style="border-radius: 12px; border: 2px solid #9D4EDD; max-width: 100%;" />
-</p>
-
 <table align="center" width="100%">
   <tr>
-    <td align="center" width="33%">
-      <img src="https://github.com/HammasT1/starbucks_card_animation/raw/main/images/Home_Screen.png?raw=true" width="150" style="border-radius: 8px; border: 1px solid #9D4EDD; max-width: 100%;" /><br/>
+    <td align="center" width="25%">
+      <img src="https://github.com/HammasT1/starbucks_card_animation/raw/main/images/Starbucks-Card-Animation-GIFr.gif?raw=true" width="100%" style="border-radius: 12px; border: 2px solid #9D4EDD; max-width: 100%;" /><br/>
+      <sub><b>Live Preview</b></sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://github.com/HammasT1/starbucks_card_animation/raw/main/images/Home_Screen.png?raw=true" width="100%" style="border-radius: 8px; border: 1px solid #9D4EDD; max-width: 100%;" /><br/>
       <sub><b>Home Screen</b></sub>
     </td>
-    <td align="center" width="33%">
-      <img src="https://github.com/HammasT1/starbucks_card_animation/raw/main/images/Menu_Screen.png?raw=true" width="150" style="border-radius: 8px; border: 1px solid #9D4EDD; max-width: 100%;" /><br/>
+    <td align="center" width="25%">
+      <img src="https://github.com/HammasT1/starbucks_card_animation/raw/main/images/Menu_Screen.png?raw=true" width="100%" style="border-radius: 8px; border: 1px solid #9D4EDD; max-width: 100%;" /><br/>
       <sub><b>Selection State</b></sub>
     </td>
-    <td align="center" width="33%">
-      <img src="https://github.com/HammasT1/starbucks_card_animation/raw/main/images/Product_details_Screen.png?raw=true" width="150" style="border-radius: 8px; border: 1px solid #9D4EDD; max-width: 100%;" /><br/>
+    <td align="center" width="25%">
+      <img src="https://github.com/HammasT1/starbucks_card_animation/raw/main/images/Product_details_Screen.png?raw=true" width="100%" style="border-radius: 8px; border: 1px solid #9D4EDD; max-width: 100%;" /><br/>
       <sub><b>Product Details</b></sub>
     </td>
   </tr>
@@ -280,18 +280,18 @@
   <img src="https://img.shields.io/badge/🍕_Pizzaro_—_Live_Preview-9D4EDD?style=for-the-badge&logoColor=white" />
 </p>
 
-<p align="center">
-  <img src="https://github.com/HammasT1/Pizzaro/raw/main/assets/images/pizzas/pizzaro-GIF-compressed.gif?raw=true" width="200" style="border-radius: 12px; border: 2px solid #9D4EDD; max-width: 100%;" />
-</p>
-
 <table align="center" width="100%">
   <tr>
-    <td align="center" width="50%">
-      <img src="https://github.com/HammasT1/Pizzaro/raw/main/assets/images/pizzas/main-screen.jpeg?raw=true" width="180" style="border-radius: 8px; border: 1px solid #9D4EDD; max-width: 100%;" /><br/>
+    <td align="center" width="33%">
+      <img src="https://github.com/HammasT1/Pizzaro/raw/main/assets/images/pizzas/pizzaro-GIF-compressed.gif?raw=true" width="160" style="border-radius: 12px; border: 2px solid #9D4EDD; max-width: 100%;" /><br/>
+      <sub><b>Live Preview</b></sub>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://github.com/HammasT1/Pizzaro/raw/main/assets/images/pizzas/main-screen.jpeg?raw=true" width="160" style="border-radius: 8px; border: 1px solid #9D4EDD; max-width: 100%;" /><br/>
       <sub><b>Main Screen</b></sub>
     </td>
-    <td align="center" width="50%">
-      <img src="https://github.com/HammasT1/Pizzaro/raw/main/assets/images/pizzas/Menu-screen.jpeg?raw=true" width="180" style="border-radius: 8px; border: 1px solid #9D4EDD; max-width: 100%;" /><br/>
+    <td align="center" width="33%">
+      <img src="https://github.com/HammasT1/Pizzaro/raw/main/assets/images/pizzas/Menu-screen.jpeg?raw=true" width="160" style="border-radius: 8px; border: 1px solid #9D4EDD; max-width: 100%;" /><br/>
       <sub><b>Menu Screen</b></sub>
     </td>
   </tr>
@@ -306,11 +306,11 @@
 <table align="center" width="100%">
   <tr>
     <td align="center" width="50%">
-      <img src="https://github.com/HammasT1/pour_flutter/raw/main/assets/carousel.png?raw=true" width="220" style="border-radius: 8px; border: 1px solid #9D4EDD; max-width: 100%;" /><br/>
+      <img src="https://github.com/HammasT1/pour_flutter/raw/main/assets/carousel.png?raw=true" width="180" style="border-radius: 8px; border: 1px solid #9D4EDD; max-width: 100%;" /><br/>
       <sub><b>Bottle Carousel</b></sub>
     </td>
     <td align="center" width="50%">
-      <img src="https://github.com/HammasT1/pour_flutter/raw/main/assets/pour.png?raw=true" width="220" style="border-radius: 8px; border: 1px solid #9D4EDD; max-width: 100%;" /><br/>
+      <img src="https://github.com/HammasT1/pour_flutter/raw/main/assets/pour.png?raw=true" width="180" style="border-radius: 8px; border: 1px solid #9D4EDD; max-width: 100%;" /><br/>
       <sub><b>Pour in Motion</b></sub>
     </td>
   </tr>
@@ -380,28 +380,76 @@ Stepping up to empower my community, manage technical systems, and drive social 
 
 <table width="100%">
   <tr>
-    <td width="33%" align="center" valign="top">
-      <img src="https://github.com/HammasT1/certificates/blob/main/Github%20certification%202_page-0001.jpg?raw=true" width="100%" alt="Microsoft Certified GitHub Certification" style="border-radius: 8px; border: 1px solid #9D4EDD;" />
+    <td width="65%" valign="middle">
       <img src="https://img.shields.io/badge/GitHub_Certification-9D4EDD?style=for-the-badge&logo=github&logoColor=white" /><br/><br/>
       <img src="https://img.shields.io/badge/Issuer-Microsoft_Learn-6A0DAD?style=flat-square&logo=microsoft&logoColor=C77DFF" /><br/><br/>
       <p align="left">Verification of advanced proficiency in modern DevOps practices, platform security, and CI/CD pipelines.</p>
       <a href="https://learn.microsoft.com/api/achievements/share/en-us/MUHAMMADHAMMASRASHEED-9890/WMQHJL7N?sharingId=C001B67777293557" target="_blank"><img src="https://img.shields.io/badge/Verify_Credential-6A0DAD?style=for-the-badge&logo=letsencrypt&logoColor=C77DFF" /></a>
     </td>
-    <td width="33%" align="center" valign="top">
-      <img src="https://github.com/HammasT1/certificates/blob/main/Github%20certification%204_page-0001.jpg?raw=true" width="100%" alt="Microsoft Certified Git Certification" style="border-radius: 8px; border: 1px solid #9D4EDD;" />
+    <td width="35%" align="center" valign="middle">
+      <img src="https://github.com/HammasT1/certificates/blob/main/Github%20certification%202_page-0001.jpg?raw=true" width="100%" alt="Microsoft Certified GitHub Certification" style="border-radius: 8px; border: 1px solid #9D4EDD;" />
+    </td>
+  </tr>
+  <tr><td colspan="2"><br></td></tr>
+  <tr>
+    <td width="65%" valign="middle">
       <img src="https://img.shields.io/badge/Git_Certification-9D4EDD?style=for-the-badge&logo=git&logoColor=white" /><br/><br/>
       <img src="https://img.shields.io/badge/Issuer-Microsoft_Learn-6A0DAD?style=flat-square&logo=microsoft&logoColor=C77DFF" /><br/><br/>
       <p align="left">Validation of expertise in distributed version control workflows, repository management, and conflict resolution.</p>
       <a href="https://learn.microsoft.com/api/achievements/share/en-us/MUHAMMADHAMMASRASHEED-9890/ABDYG9C7?sharingId=C001B67777293557" target="_blank"><img src="https://img.shields.io/badge/Verify_Credential-6A0DAD?style=for-the-badge&logo=letsencrypt&logoColor=C77DFF" /></a>
     </td>
-   <td width="33%" align="center" valign="top">
-      <a href="https://coursera.org/verify/F3RV6FWTEUNC" target="_blank">
-        <img src="https://github.com/HammasT1/certificates/blob/main/Coursera%20Certificate_page-0001.jpg?raw=true" width="100%" alt="Coursera Mobile App UI with Moqups Certificate" style="border-radius: 8px; border: 1px solid #9D4EDD;" />
-      </a>
+    <td width="35%" align="center" valign="middle">
+      <img src="https://github.com/HammasT1/certificates/blob/main/Github%20certification%204_page-0001.jpg?raw=true" width="100%" alt="Microsoft Certified Git Certification" style="border-radius: 8px; border: 1px solid #9D4EDD;" />
+    </td>
+  </tr>
+  <tr><td colspan="2"><br></td></tr>
+  <tr>
+    <td width="65%" valign="middle">
       <img src="https://img.shields.io/badge/Mobile_App_UI_with_Moqups-9D4EDD?style=for-the-badge&logo=coursera&logoColor=white" /><br/><br/>
       <img src="https://img.shields.io/badge/Issuer-Coursera_(Cleerup)-6A0DAD?style=flat-square&logo=coursera&logoColor=C77DFF" /><br/><br/>
       <p align="left">Intensive project on wireframing, low-to-high fidelity interactive mockups, and mobile UX architecture.</p>
       <a href="https://coursera.org/share/4938d5cfc375c1d7224e8b40ba7fb248" target="_blank"><img src="https://img.shields.io/badge/Verify_Credential-6A0DAD?style=for-the-badge&logo=letsencrypt&logoColor=C77DFF" /></a>
+    </td>
+    <td width="35%" align="center" valign="middle">
+      <a href="https://coursera.org/verify/F3RV6FWTEUNC" target="_blank">
+        <img src="https://github.com/HammasT1/certificates/blob/main/Coursera%20Certificate_page-0001.jpg?raw=true" width="100%" alt="Coursera Mobile App UI with Moqups Certificate" style="border-radius: 8px; border: 1px solid #9D4EDD;" />
+      </a>
+    </td>
+  </tr>
+  <tr><td colspan="2"><br></td></tr>
+  <tr>
+    <td width="65%" valign="middle">
+      <img src="https://img.shields.io/badge/Getting_Started_with_Flutter_and_Dart-9D4EDD?style=for-the-badge&logo=flutter&logoColor=white" /><br/><br/>
+      <img src="https://img.shields.io/badge/Issuer-Coursera-6A0DAD?style=flat-square&logo=coursera&logoColor=C77DFF" /><br/><br/>
+      <p align="left">Foundational course covering Flutter widgets, Dart syntax, and building the first cross-platform mobile UI.</p>
+      <a href="#" target="_blank"><img src="https://img.shields.io/badge/Verify_Credential-6A0DAD?style=for-the-badge&logo=letsencrypt&logoColor=C77DFF" /></a>
+    </td>
+    <td width="35%" align="center" valign="middle">
+      <img src="https://github.com/HammasT1/Certifications/blob/main/Coursera%20Flutter%20certificate-2_page-0001.jpg?raw=true" width="100%" alt="Getting Started with Flutter and Dart Certificate" style="border-radius: 8px; border: 1px solid #9D4EDD;" />
+    </td>
+  </tr>
+  <tr><td colspan="2"><br></td></tr>
+  <tr>
+    <td width="65%" valign="middle">
+      <img src="https://img.shields.io/badge/Advanced_Flutter_UI_%26_State_Management-9D4EDD?style=for-the-badge&logo=flutter&logoColor=white" /><br/><br/>
+      <img src="https://img.shields.io/badge/Issuer-Coursera-6A0DAD?style=flat-square&logo=coursera&logoColor=C77DFF" /><br/><br/>
+      <p align="left">In-depth training on advanced UI composition and state management patterns (Provider/BLoC/Riverpod) in Flutter.</p>
+      <a href="#" target="_blank"><img src="https://img.shields.io/badge/Verify_Credential-6A0DAD?style=for-the-badge&logo=letsencrypt&logoColor=C77DFF" /></a>
+    </td>
+    <td width="35%" align="center" valign="middle">
+      <img src="https://github.com/HammasT1/Certifications/blob/main/Coursera%20Flutter%20certificatepdf_page-0001.jpg?raw=true" width="100%" alt="Advanced Flutter UI and State Management Certificate" style="border-radius: 8px; border: 1px solid #9D4EDD;" />
+    </td>
+  </tr>
+  <tr><td colspan="2"><br></td></tr>
+  <tr>
+    <td width="65%" valign="middle">
+      <img src="https://img.shields.io/badge/Introduction_to_Mobile_App_Development-9D4EDD?style=for-the-badge&logo=ibm&logoColor=white" /><br/><br/>
+      <img src="https://img.shields.io/badge/Issuer-IBM-6A0DAD?style=flat-square&logo=ibm&logoColor=C77DFF" /><br/><br/>
+      <p align="left">Introductory course on core mobile app development concepts, cross-platform frameworks, and app design fundamentals.</p>
+      <a href="#" target="_blank"><img src="https://img.shields.io/badge/Verify_Credential-6A0DAD?style=for-the-badge&logo=letsencrypt&logoColor=C77DFF" /></a>
+    </td>
+    <td width="35%" align="center" valign="middle">
+      <img src="https://github.com/HammasT1/Certifications/blob/main/IBM%20Flutter%20certificate_page-0001.jpg?raw=true" width="100%" alt="Introduction to Mobile App Development Certificate" style="border-radius: 8px; border: 1px solid #9D4EDD;" />
     </td>
   </tr>
 </table>
