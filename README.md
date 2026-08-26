@@ -422,7 +422,7 @@ Stepping up to empower my community, manage technical systems, and drive social 
       <img src="https://img.shields.io/badge/Getting_Started_with_Flutter_and_Dart-9D4EDD?style=for-the-badge&logo=flutter&logoColor=white" /><br/><br/>
       <img src="https://img.shields.io/badge/Issuer-Coursera-6A0DAD?style=flat-square&logo=coursera&logoColor=C77DFF" /><br/><br/>
       <p align="left">Foundational course covering Flutter widgets, Dart syntax, and building the first cross-platform mobile UI.</p>
-      <a href="#" target="_blank"><img src="https://img.shields.io/badge/Verify_Credential-6A0DAD?style=for-the-badge&logo=letsencrypt&logoColor=C77DFF" /></a>
+      <a href="https://coursera.org/share/edec602ed3e4ce93d60cc17e62e3a0a7" target="_blank"><img src="https://img.shields.io/badge/Verify_Credential-6A0DAD?style=for-the-badge&logo=letsencrypt&logoColor=C77DFF" /></a>
     </td>
     <td width="35%" align="center" valign="middle">
       <img src="https://github.com/HammasT1/Certifications/blob/main/Coursera%20Flutter%20certificate-2_page-0001.jpg?raw=true" width="100%" alt="Getting Started with Flutter and Dart Certificate" style="border-radius: 8px; border: 1px solid #9D4EDD;" />
@@ -434,7 +434,7 @@ Stepping up to empower my community, manage technical systems, and drive social 
       <img src="https://img.shields.io/badge/Advanced_Flutter_UI_%26_State_Management-9D4EDD?style=for-the-badge&logo=flutter&logoColor=white" /><br/><br/>
       <img src="https://img.shields.io/badge/Issuer-Coursera-6A0DAD?style=flat-square&logo=coursera&logoColor=C77DFF" /><br/><br/>
       <p align="left">In-depth training on advanced UI composition and state management patterns (Provider/BLoC/Riverpod) in Flutter.</p>
-      <a href="#" target="_blank"><img src="https://img.shields.io/badge/Verify_Credential-6A0DAD?style=for-the-badge&logo=letsencrypt&logoColor=C77DFF" /></a>
+      <a href="https://coursera.org/share/6c8a9ed365e3d70e8f4a683c36c8facd" target="_blank"><img src="https://img.shields.io/badge/Verify_Credential-6A0DAD?style=for-the-badge&logo=letsencrypt&logoColor=C77DFF" /></a>
     </td>
     <td width="35%" align="center" valign="middle">
       <img src="https://github.com/HammasT1/Certifications/blob/main/Coursera%20Flutter%20certificatepdf_page-0001.jpg?raw=true" width="100%" alt="Advanced Flutter UI and State Management Certificate" style="border-radius: 8px; border: 1px solid #9D4EDD;" />
@@ -446,7 +446,7 @@ Stepping up to empower my community, manage technical systems, and drive social 
       <img src="https://img.shields.io/badge/Introduction_to_Mobile_App_Development-9D4EDD?style=for-the-badge&logo=ibm&logoColor=white" /><br/><br/>
       <img src="https://img.shields.io/badge/Issuer-IBM-6A0DAD?style=flat-square&logo=ibm&logoColor=C77DFF" /><br/><br/>
       <p align="left">Introductory course on core mobile app development concepts, cross-platform frameworks, and app design fundamentals.</p>
-      <a href="#" target="_blank"><img src="https://img.shields.io/badge/Verify_Credential-6A0DAD?style=for-the-badge&logo=letsencrypt&logoColor=C77DFF" /></a>
+      <a href="https://coursera.org/share/c807ae4008adea8741443537b095b0b7" target="_blank"><img src="https://img.shields.io/badge/Verify_Credential-6A0DAD?style=for-the-badge&logo=letsencrypt&logoColor=C77DFF" /></a>
     </td>
     <td width="35%" align="center" valign="middle">
       <img src="https://github.com/HammasT1/Certifications/blob/main/IBM%20Flutter%20certificate_page-0001.jpg?raw=true" width="100%" alt="Introduction to Mobile App Development Certificate" style="border-radius: 8px; border: 1px solid #9D4EDD;" />
