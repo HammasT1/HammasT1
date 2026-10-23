@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/HammasT1/Certifications/blob/main/Linkedin%20Banner.png?raw=true" width="100%" />
+  <img src="https://github.com/HammasT1/Certifications/blob/main/Github%20Banner%20.png?raw=true" width="500" />
 </p>
 
 <a name="top"></a>
