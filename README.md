@@ -1,15 +1,15 @@
 <p align="center">
-  <img src="https://github.com/HammasT1/Certifications/blob/main/Github%20Banner%20.png?raw=true" width="500" />
+  <img src="https://raw.githubusercontent.com/HammasT1/Certifications/main/Github%20Banner%20.png" width="500" alt="Hammas Rasheed GitHub banner" />
 </p>
 
 <a name="top"></a>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1B2A,55:0F766E,100:14B8A6&height=220&section=header&text=Hammas%20Rasheed&fontSize=80&animation=fadeIn&fontAlignY=35&fontColor=ffffff" />
+  <a href="#me"><b>Me</b></a> • <a href="#journey"><b>Journey</b></a> • <a href="#now"><b>Now</b></a> • <a href="#auraf"><b>AURAF</b></a> • <a href="#arsenal"><b>Arsenal</b></a> • <a href="#philosophy"><b>Philosophy</b></a> • <a href="#projects"><b>Projects</b></a> • <a href="#showcase"><b>Showcase</b></a> • <a href="#roles"><b>Leadership</b></a> • <a href="#certifications"><b>Certifications</b></a> • <a href="#services"><b>Services</b></a> • <a href="#casestudies"><b>Case Studies</b></a> • <a href="#faq"><b>FAQ</b></a> • <a href="#beyond"><b>Beyond Code</b></a> • <a href="#stats"><b>Stats</b></a> • <a href="#wanna-chat"><b>Contact</b></a>
 </p>
 
 <p align="center">
-  <a href="#me"><b>Me</b></a> • <a href="#journey"><b>Journey</b></a> • <a href="#now"><b>Now</b></a> • <a href="#arsenal"><b>Arsenal</b></a> • <a href="#philosophy"><b>Philosophy</b></a> • <a href="#projects"><b>Projects</b></a> • <a href="#showcase"><b>Showcase</b></a> • <a href="#roles"><b>Leadership</b></a> • <a href="#certifications"><b>Certifications</b></a> • <a href="#services"><b>Services</b></a> • <a href="#casestudies"><b>Case Studies</b></a> • <a href="#faq"><b>FAQ</b></a> • <a href="#beyond"><b>Beyond Code</b></a> • <a href="#stats"><b>Stats</b></a> • <a href="#wanna-chat"><b>Contact</b></a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1B2A,55:0F766E,100:14B8A6&height=220&section=header&text=Hammas%20Rasheed&fontSize=70&fontColor=7DD3FC&fontAlignY=38&animation=fadeIn&desc=Flutter%20Developer%20%7C%20UI%2FUX%20Designer&descSize=20&descAlignY=60" alt="Hammas Rasheed" />
 </p>
 
 <h1 align="center">
@@ -42,16 +42,26 @@
         <tr><td>🔎&nbsp;<b>Identity</b></td><td><img src="https://img.shields.io/badge/HamiDEV-%3C3-14B8A6?style=flat-square&logo=flutter&logoColor=white" alt="Identity"></td></tr>
         <tr><td>🎂&nbsp;<b>Age</b></td><td><img src="https://img.shields.io/badge/22%20Years-Old-14B8A6?style=flat-square&logo=reactivex&logoColor=white" alt="Age"></td></tr>
         <tr><td>🗺️&nbsp;<b>Origin</b></td><td><img src="https://img.shields.io/badge/Pakistan-%F0%9F%87%B5%F0%9F%87%B0-14B8A6?style=flat-square&logo=map&logoColor=white" alt="Origin"></td></tr>
+        <tr><td>🎓&nbsp;<b>Education</b></td><td><img src="https://img.shields.io/badge/BS_Computer_Science-UET_Taxila-14B8A6?style=flat-square&logo=googlescholar&logoColor=white" alt="Education"></td></tr>
         <tr><td>🗣️&nbsp;<b>Languages</b></td><td><img src="https://img.shields.io/badge/Urdu%20%7C%20English%20%7C%20Russian%20(Learning)-14B8A6?style=flat-square&logo=googletranslate&logoColor=white" alt="Languages"></td></tr>
         <tr><td>💻&nbsp;<b>Core Stack</b></td><td><img src="https://img.shields.io/badge/Dart_%E2%80%A2_Python_%E2%80%A2_C++-14B8A6?style=flat-square&logo=codeforces&logoColor=white" alt="Core Stack"></td></tr>
         <tr><td>🎯&nbsp;<b>Focus</b></td><td><img src="https://img.shields.io/badge/Production--Ready_Flutter_Apps_%26_Freelance_Engineering-14B8A6?style=flat-square&logo=target&logoColor=white" alt="Focus"></td></tr>
       </table>
     </td>
     <td width="40%" align="center" valign="middle">
-       <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXp4Y3BqbmR0amN0Z3R6Z3Z6Z3Z6Z3Z6Z3Z6Z3Z6Z3Z6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="200" style="border-radius: 12px; border: 2px solid #14B8A6; display: block; max-width: 100%;" />
+      <img src="https://raw.githubusercontent.com/HammasT1/HammasT1/main/readmefile/developer.gif" width="320" alt="Animated developer coding on a laptop" />
     </td>
   </tr>
 </table>
+
+I'm **Muhammad Hammas Rasheed**, a Computer Science undergraduate at **UET Taxila**, a **Flutter Developer** with two years of experience, and a **Figma UI/UX designer**. I build production-style apps for **Android and iOS** from one codebase using **Clean Architecture, Riverpod and BLoC**, and I hand-build my animations instead of leaning on animation libraries. On the backend I work with **Firebase, Supabase, SQLite and REST APIs**, so I can take a smaller app from design all the way to the store.
+
+- 📱 **Mobile:** Production-ready Flutter apps with clean layers, real backends and smooth motion.
+- 🎨 **Design:** Figma and Moqups designs turned into pixel-accurate, animated Flutter UI.
+- 🔬 **Research:** On-device AI, adaptive runtimes and mobile performance (see AURAF below).
+- 📦 **Open source:** Published Flutter packages for animation and layout safety.
+- 💬 **Ask me about:** Flutter architecture, custom animations, Riverpod, FlutterFlow, or mobile AI.
+- ✉️ **Contact:** [23-CS-98@students.uettaxila.edu.pk](mailto:23-CS-98@students.uettaxila.edu.pk)
 
 <blockquote align="center">
 💡 <b>Fun Fact:</b> I've been breaking (and successfully fixing) production systems and computational code since I was 13!
@@ -83,7 +93,7 @@
     </td>
     <td width="20%" align="center" valign="top">
       <img src="https://img.shields.io/badge/Now-Building_%26_Freelancing-0F766E?style=for-the-badge&logoColor=2DD4BF" /><br/><br/>
-      <p align="left">Focused on production-ready apps, mentoring, and taking on freelance clients.</p>
+      <p align="left">Focused on production-ready apps, mentoring, freelance clients, and my AURAF final year research project.</p>
     </td>
   </tr>
 </table>
@@ -98,11 +108,11 @@
   <tr>
     <td width="25%" align="center" valign="top">
       <img src="https://img.shields.io/badge/🛠️_Building-14B8A6?style=for-the-badge&logoColor=white" /><br/><br/>
-      <p align="left">Production-grade Flutter apps with Clean Architecture and real backend integrations.</p>
+      <p align="left">Production-grade Flutter apps with Clean Architecture and real backend integrations, plus the AURAF research packages.</p>
     </td>
     <td width="25%" align="center" valign="top">
       <img src="https://img.shields.io/badge/📚_Learning-14B8A6?style=for-the-badge&logoColor=white" /><br/><br/>
-      <p align="left">Advanced C++ systems programming and deeper backend/API design patterns.</p>
+      <p align="left">Advanced C++ systems programming, deeper backend/API design patterns, and on-device LLM inference.</p>
     </td>
     <td width="25%" align="center" valign="top">
       <img src="https://img.shields.io/badge/🤝_Open_To-14B8A6?style=for-the-badge&logoColor=white" /><br/><br/>
@@ -114,6 +124,57 @@
     </td>
   </tr>
 </table>
+
+<h6 align="center"><sub>█████████████████████████████████████████████████████████</sub></h6>
+
+<a name="auraf"></a>
+
+## 🔬 Research Project: AURAF
+
+**AURAF (Adaptive Unified Runtime Architecture for Flutter)** is my final year research project at UET Taxila, built with Muhammad Assad Ullah. It is a family of four Dart packages that decide, for every AI request in a Flutter app, where it runs (cloud or phone), how much context it carries, and how the on-device model is configured. The unifying package makes all three decisions together from live battery, network, thermal, memory and cost data, using a lightweight drift-plus-penalty policy that is tested against baselines on real Android phones.
+
+<table width="100%">
+  <tr>
+    <td width="30%" align="center">
+      <img src="https://img.shields.io/badge/🛡️_token__guard-14B8A6?style=for-the-badge&logoColor=white" />
+    </td>
+    <td width="70%">
+      Counts tokens and trims the conversation to a context budget, with cost estimates per provider.<br><br>
+      <img src="https://img.shields.io/badge/Dart-14B8A6?style=flat-square&logo=dart&logoColor=white" />
+      <img src="https://img.shields.io/badge/My_Part-Leader-0F766E?style=flat-square&logoColor=2DD4BF" />
+    </td>
+  </tr>
+  <tr>
+    <td width="30%" align="center">
+      <img src="https://img.shields.io/badge/🧠_hybrid__brain-14B8A6?style=for-the-badge&logoColor=white" />
+    </td>
+    <td width="70%">
+      Routes each request to the cloud or the device and fails over when the connection drops.<br><br>
+      <img src="https://img.shields.io/badge/Dart-14B8A6?style=flat-square&logo=dart&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td width="30%" align="center">
+      <img src="https://img.shields.io/badge/🔧_edge__forge-14B8A6?style=for-the-badge&logoColor=white" />
+    </td>
+    <td width="70%">
+      Applies the chosen on-device model, quantization level, thread count and accelerator.<br><br>
+      <img src="https://img.shields.io/badge/Dart-14B8A6?style=flat-square&logo=dart&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td width="30%" align="center">
+      <img src="https://img.shields.io/badge/🌐_auraf-14B8A6?style=for-the-badge&logoColor=white" />
+    </td>
+    <td width="70%">
+      Unifies the three behind one API with a State Collector and a Decision Engine that picks the best action under energy and quality constraints.<br><br>
+      <img src="https://img.shields.io/badge/Dart-14B8A6?style=flat-square&logo=dart&logoColor=white" />
+      <img src="https://img.shields.io/badge/Kotlin-Platform_Channels-0F766E?style=flat-square&logo=kotlin&logoColor=2DD4BF" />
+    </td>
+  </tr>
+</table>
+
+<p align="center"><i>My part: literature survey, model and runtime comparison, State Collector, token_guard, automated tests, example apps, CI and the reports.</i></p>
 
 <h6 align="center"><sub>█████████████████████████████████████████████████████████</sub></h6>
 
@@ -170,6 +231,42 @@
   </tr>
 </table>
 
+<br>
+
+### 🛠️ Technical Skills
+
+**Languages**<br>
+![Dart](https://img.shields.io/badge/Dart-14B8A6?style=flat-square&logo=dart&logoColor=white)
+![Python](https://img.shields.io/badge/Python-0D9488?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-0F766E?style=flat-square&logo=cplusplus&logoColor=white)
+
+**Mobile & Architecture**<br>
+![Flutter](https://img.shields.io/badge/Flutter-14B8A6?style=flat-square&logo=flutter&logoColor=white)
+![FlutterFlow](https://img.shields.io/badge/FlutterFlow-0D9488?style=flat-square&logoColor=white)
+![Riverpod](https://img.shields.io/badge/Riverpod-0F766E?style=flat-square&logo=flutter&logoColor=white)
+![BLoC](https://img.shields.io/badge/BLoC-14B8A6?style=flat-square&logo=flutter&logoColor=white)
+![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-0D9488?style=flat-square&logoColor=white)
+![Android](https://img.shields.io/badge/Android-0F766E?style=flat-square&logo=android&logoColor=white)
+
+**Backend & Data**<br>
+![Firebase](https://img.shields.io/badge/Firebase-14B8A6?style=flat-square&logo=firebase&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-0D9488?style=flat-square&logo=supabase&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-0F766E?style=flat-square&logo=sqlite&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-14B8A6?style=flat-square&logo=postman&logoColor=white)
+
+**Design**<br>
+![Figma](https://img.shields.io/badge/Figma-0D9488?style=flat-square&logo=figma&logoColor=white)
+![Moqups](https://img.shields.io/badge/Moqups-0F766E?style=flat-square&logoColor=white)
+
+**Tools & DevOps**<br>
+![Git](https://img.shields.io/badge/Git-14B8A6?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-0D9488?style=flat-square&logo=github&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0F766E?style=flat-square&logo=githubactions&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-14B8A6?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-0D9488?style=flat-square&logo=linux&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-0F766E?style=flat-square&logo=androidstudio&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-14B8A6?style=flat-square&logo=visualstudiocode&logoColor=white)
+
 <h6 align="center"><sub>█████████████████████████████████████████████████████████</sub></h6>
 
 <a name="philosophy"></a>
@@ -204,6 +301,30 @@
 ## ⚡ Featured Creations
 
 <table width="100%">
+  <tr>
+    <td width="30%" align="center">
+      <img src="https://img.shields.io/badge/📦_gesture__physics__animator-14B8A6?style=for-the-badge&logoColor=white" />
+    </td>
+    <td width="70%">
+      A published open-source Flutter package for gesture-driven, physics-based animations, built so other developers can drop smooth motion into their own apps.<br><br>
+      <img src="https://img.shields.io/badge/Flutter-14B8A6?style=flat-square&logo=flutter&logoColor=white" />
+      <img src="https://img.shields.io/badge/Dart-14B8A6?style=flat-square&logo=dart&logoColor=white" />
+      <img src="https://img.shields.io/badge/pub.dev-0F766E?style=flat-square&logo=dart&logoColor=2DD4BF" /><br><br>
+      <a href="https://pub.dev/packages/gesture_physics_animator"><img src="https://img.shields.io/badge/View_on_pub.dev-14B8A6?style=for-the-badge&logo=dart&logoColor=white" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="30%" align="center">
+      <img src="https://img.shields.io/badge/📦_safe__flex-14B8A6?style=for-the-badge&logoColor=white" />
+    </td>
+    <td width="70%">
+      A published open-source Flutter package that keeps flex layouts safe from overflow errors, so UIs stay stable on any screen size.<br><br>
+      <img src="https://img.shields.io/badge/Flutter-14B8A6?style=flat-square&logo=flutter&logoColor=white" />
+      <img src="https://img.shields.io/badge/Dart-14B8A6?style=flat-square&logo=dart&logoColor=white" />
+      <img src="https://img.shields.io/badge/pub.dev-0F766E?style=flat-square&logo=dart&logoColor=2DD4BF" /><br><br>
+      <a href="https://pub.dev/packages/safe_flex"><img src="https://img.shields.io/badge/View_on_pub.dev-14B8A6?style=for-the-badge&logo=dart&logoColor=white" /></a>
+    </td>
+  </tr>
   <tr>
     <td width="30%" align="center">
       <img src="https://img.shields.io/badge/☕_starbucks__Flutter-14B8A6?style=for-the-badge&logoColor=white" />
@@ -252,19 +373,19 @@
 <table align="center" width="100%">
   <tr>
     <td align="center" width="25%">
-      <img src="https://raw.githubusercontent.com/HammasT1/starbucks_card_animation/main/images/Starbucks-Card-Animation-GIFr.gif" width="100%" style="border-radius: 12px; border: 2px solid #14B8A6; max-width: 100%;" /><br/>
+      <img src="https://raw.githubusercontent.com/HammasT1/starbucks_card_animation/main/images/Starbucks-Card-Animation-GIFr.gif" width="100%" alt="Starbucks card animation live preview" /><br/>
       <sub><b>Live Preview</b></sub>
     </td>
     <td align="center" width="25%">
-      <img src="https://github.com/HammasT1/starbucks_card_animation/raw/main/images/Home_Screen.png?raw=true" width="100%" style="border-radius: 8px; border: 1px solid #14B8A6; max-width: 100%;" /><br/>
+      <img src="https://raw.githubusercontent.com/HammasT1/starbucks_card_animation/main/images/Home_Screen.png" width="100%" alt="Starbucks home screen" /><br/>
       <sub><b>Home Screen</b></sub>
     </td>
     <td align="center" width="25%">
-      <img src="https://github.com/HammasT1/starbucks_card_animation/raw/main/images/Menu_Screen.png?raw=true" width="100%" style="border-radius: 8px; border: 1px solid #14B8A6; max-width: 100%;" /><br/>
+      <img src="https://raw.githubusercontent.com/HammasT1/starbucks_card_animation/main/images/Menu_Screen.png" width="100%" alt="Starbucks menu screen" /><br/>
       <sub><b>Selection State</b></sub>
     </td>
     <td align="center" width="25%">
-      <img src="https://github.com/HammasT1/starbucks_card_animation/raw/main/images/Product_details_Screen.png?raw=true" width="100%" style="border-radius: 8px; border: 1px solid #14B8A6; max-width: 100%;" /><br/>
+      <img src="https://raw.githubusercontent.com/HammasT1/starbucks_card_animation/main/images/Product_details_Screen.png" width="100%" alt="Starbucks product details screen" /><br/>
       <sub><b>Product Details</b></sub>
     </td>
   </tr>
@@ -279,15 +400,15 @@
 <table align="center" width="100%">
   <tr>
     <td align="center" width="33%">
-      <img src="https://raw.githubusercontent.com/HammasT1/Pizzaro/main/assets/images/pizzas/pizzaro-GIF-compressed.gif" width="160" style="border-radius: 12px; border: 2px solid #14B8A6; max-width: 100%;" /><br/>
+      <img src="https://raw.githubusercontent.com/HammasT1/Pizzaro/main/assets/images/pizzas/pizzaro-GIF-compressed.gif" width="200" alt="Pizzaro live preview" /><br/>
       <sub><b>Live Preview</b></sub>
     </td>
     <td align="center" width="33%">
-      <img src="https://github.com/HammasT1/Pizzaro/raw/main/assets/images/pizzas/main-screen.jpeg?raw=true" width="160" style="border-radius: 8px; border: 1px solid #14B8A6; max-width: 100%;" /><br/>
+      <img src="https://raw.githubusercontent.com/HammasT1/Pizzaro/main/assets/images/pizzas/main-screen.jpeg" width="200" alt="Pizzaro main screen" /><br/>
       <sub><b>Main Screen</b></sub>
     </td>
     <td align="center" width="33%">
-      <img src="https://github.com/HammasT1/Pizzaro/raw/main/assets/images/pizzas/Menu-screen.jpeg?raw=true" width="160" style="border-radius: 8px; border: 1px solid #14B8A6; max-width: 100%;" /><br/>
+      <img src="https://raw.githubusercontent.com/HammasT1/Pizzaro/main/assets/images/pizzas/Menu-screen.jpeg" width="200" alt="Pizzaro menu screen" /><br/>
       <sub><b>Menu Screen</b></sub>
     </td>
   </tr>
@@ -301,13 +422,21 @@
 
 <table align="center" width="100%">
   <tr>
-    <td align="center" width="50%">
-      <img src="https://github.com/HammasT1/pour_flutter/raw/main/assets/carousel.png?raw=true" width="180" style="border-radius: 8px; border: 1px solid #14B8A6; max-width: 100%;" /><br/>
+    <td align="center" width="25%">
+      <img src="https://raw.githubusercontent.com/HammasT1/pour_flutter/main/assets/pour_flutter-GIF.gif" width="100%" alt="Pour live preview" /><br/>
+      <sub><b>Live Preview</b></sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://raw.githubusercontent.com/HammasT1/pour_flutter/main/assets/carousel.png" width="100%" alt="Pour bottle carousel" /><br/>
       <sub><b>Bottle Carousel</b></sub>
     </td>
-    <td align="center" width="50%">
-      <img src="https://github.com/HammasT1/pour_flutter/raw/main/assets/pour.png?raw=true" width="180" style="border-radius: 8px; border: 1px solid #14B8A6; max-width: 100%;" /><br/>
+    <td align="center" width="25%">
+      <img src="https://raw.githubusercontent.com/HammasT1/pour_flutter/main/assets/pour.png" width="100%" alt="Pour in motion" /><br/>
       <sub><b>Pour in Motion</b></sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://raw.githubusercontent.com/HammasT1/pour_flutter/main/assets/fill_screen.png" width="100%" alt="Pour fill screen" /><br/>
+      <sub><b>Fill Screen</b></sub>
     </td>
   </tr>
 </table>
@@ -323,7 +452,7 @@ Stepping up to empower my community, manage technical systems, and drive social 
 <table width="100%">
   <tr>
     <td width="20%" align="center" valign="middle">
-      <img src="https://github.com/HammasT1/certificates/blob/main/MLSA%20Colead.png?raw=true" width="100%" alt="MLSA Co-Lead Appointment Certificate" style="border-radius: 6px; border: 1px solid #14B8A6;" />
+      <img src="readmefile/MLSA-Colead.jpg" width="100%" alt="MLSA Co-Lead Appointment Certificate" />
     </td>
     <td width="80%" valign="middle">
       <img src="https://img.shields.io/badge/🚀_Co--Lead_—_MLSA_Club-14B8A6?style=for-the-badge&logoColor=white" /><br/><br/>
@@ -332,7 +461,7 @@ Stepping up to empower my community, manage technical systems, and drive social 
   </tr>
   <tr>
     <td width="20%" align="center" valign="middle">
-      <img src="https://github.com/HammasT1/certificates/blob/main/CSP%20Head%20UES.jpeg?raw=true" width="100%" alt="UMEED-E-SUBH CSP Head Certificate" style="border-radius: 6px; border: 1px solid #14B8A6;" />
+      <img src="https://raw.githubusercontent.com/HammasT1/certificates/main/CSP%20Head%20UES.jpeg" width="100%" alt="UMEED-E-SUBH CSP Head Certificate" />
     </td>
     <td width="80%" valign="middle">
       <img src="https://img.shields.io/badge/🤝_CSP_Head_—_UMEED--E--SUBH-14B8A6?style=for-the-badge&logoColor=white" /><br/><br/>
@@ -341,7 +470,7 @@ Stepping up to empower my community, manage technical systems, and drive social 
   </tr>
   <tr>
     <td width="20%" align="center" valign="middle">
-      <img src="https://github.com/HammasT1/certificates/blob/main/Senior%20Executive%20Softdesk.jpeg?raw=true" width="100%" alt="Softdesk Senior Executive Certificate" style="border-radius: 6px; border: 1px solid #14B8A6;" />
+      <img src="https://raw.githubusercontent.com/HammasT1/certificates/main/Senior%20Executive%20Softdesk.jpeg" width="100%" alt="Softdesk Senior Executive Certificate" />
     </td>
     <td width="80%" valign="middle">
       <img src="https://img.shields.io/badge/💻_Senior_Executive_—_Softdesk-14B8A6?style=for-the-badge&logoColor=white" /><br/><br/>
@@ -350,7 +479,7 @@ Stepping up to empower my community, manage technical systems, and drive social 
   </tr>
   <tr>
     <td width="20%" align="center" valign="middle">
-      <img src="https://github.com/HammasT1/certificates/blob/main/UMC%20Director.jpeg?raw=true" width="100%" alt="UMC Senior Executive Certificate" style="border-radius: 6px; border: 1px solid #14B8A6;" />
+      <img src="https://raw.githubusercontent.com/HammasT1/certificates/main/UMC%20Director.jpeg" width="100%" alt="UMC Senior Executive Certificate" />
     </td>
     <td width="80%" valign="middle">
       <img src="https://img.shields.io/badge/📸_Senior_Executive_—_UMC-14B8A6?style=for-the-badge&logoColor=white" /><br/><br/>
@@ -359,7 +488,7 @@ Stepping up to empower my community, manage technical systems, and drive social 
   </tr>
   <tr>
     <td width="20%" align="center" valign="middle">
-      <img src="https://github.com/HammasT1/certificates/blob/main/WOH%20Director.jpeg?raw=true" width="100%" alt="Wall of Hope Ex-Director Certificate" style="border-radius: 6px; border: 1px solid #14B8A6;" />
+      <img src="https://raw.githubusercontent.com/HammasT1/certificates/main/WOH%20Director.jpeg" width="100%" alt="Wall of Hope Ex-Director Certificate" />
     </td>
     <td width="80%" valign="middle">
       <img src="https://img.shields.io/badge/🌟_Ex--Director_—_Wall_of_Hope-14B8A6?style=for-the-badge&logoColor=white" /><br/><br/>
@@ -383,7 +512,7 @@ Stepping up to empower my community, manage technical systems, and drive social 
       <a href="https://learn.microsoft.com/api/achievements/share/en-us/MUHAMMADHAMMASRASHEED-9890/WMQHJL7N?sharingId=C001B67777293557" target="_blank"><img src="https://img.shields.io/badge/Verify_Credential-0F766E?style=for-the-badge&logo=letsencrypt&logoColor=2DD4BF" /></a>
     </td>
     <td width="35%" align="center" valign="middle">
-      <img src="https://github.com/HammasT1/certificates/blob/main/Github%20certification%202_page-0001.jpg?raw=true" width="100%" alt="Microsoft Certified GitHub Certification" style="border-radius: 8px; border: 1px solid #14B8A6;" />
+      <img src="https://raw.githubusercontent.com/HammasT1/certificates/main/Github%20certification%202_page-0001.jpg" width="100%" alt="Microsoft Certified GitHub Certification" />
     </td>
   </tr>
   <tr><td colspan="2"><br></td></tr>
@@ -395,7 +524,7 @@ Stepping up to empower my community, manage technical systems, and drive social 
       <a href="https://learn.microsoft.com/api/achievements/share/en-us/MUHAMMADHAMMASRASHEED-9890/ABDYG9C7?sharingId=C001B67777293557" target="_blank"><img src="https://img.shields.io/badge/Verify_Credential-0F766E?style=for-the-badge&logo=letsencrypt&logoColor=2DD4BF" /></a>
     </td>
     <td width="35%" align="center" valign="middle">
-      <img src="https://github.com/HammasT1/certificates/blob/main/Github%20certification%204_page-0001.jpg?raw=true" width="100%" alt="Microsoft Certified Git Certification" style="border-radius: 8px; border: 1px solid #14B8A6;" />
+      <img src="https://raw.githubusercontent.com/HammasT1/certificates/main/Github%20certification%204_page-0001.jpg" width="100%" alt="Microsoft Certified Git Certification" />
     </td>
   </tr>
   <tr><td colspan="2"><br></td></tr>
@@ -408,7 +537,7 @@ Stepping up to empower my community, manage technical systems, and drive social 
     </td>
     <td width="35%" align="center" valign="middle">
       <a href="https://coursera.org/verify/F3RV6FWTEUNC" target="_blank">
-        <img src="https://github.com/HammasT1/certificates/blob/main/Coursera%20Certificate_page-0001.jpg?raw=true" width="100%" alt="Coursera Mobile App UI with Moqups Certificate" style="border-radius: 8px; border: 1px solid #14B8A6;" />
+        <img src="https://raw.githubusercontent.com/HammasT1/certificates/main/Coursera%20Certificate_page-0001.jpg" width="100%" alt="Coursera Mobile App UI with Moqups Certificate" />
       </a>
     </td>
   </tr>
@@ -421,7 +550,7 @@ Stepping up to empower my community, manage technical systems, and drive social 
       <a href="https://coursera.org/share/edec602ed3e4ce93d60cc17e62e3a0a7" target="_blank"><img src="https://img.shields.io/badge/Verify_Credential-0F766E?style=for-the-badge&logo=letsencrypt&logoColor=2DD4BF" /></a>
     </td>
     <td width="35%" align="center" valign="middle">
-      <img src="https://github.com/HammasT1/Certifications/blob/main/Coursera%20Flutter%20certificate-2_page-0001.jpg?raw=true" width="100%" alt="Getting Started with Flutter and Dart Certificate" style="border-radius: 8px; border: 1px solid #14B8A6;" />
+      <img src="https://raw.githubusercontent.com/HammasT1/Certifications/main/Coursera%20Flutter%20certificate-2_page-0001.jpg" width="100%" alt="Getting Started with Flutter and Dart Certificate" />
     </td>
   </tr>
   <tr><td colspan="2"><br></td></tr>
@@ -433,7 +562,7 @@ Stepping up to empower my community, manage technical systems, and drive social 
       <a href="https://coursera.org/share/6c8a9ed365e3d70e8f4a683c36c8facd" target="_blank"><img src="https://img.shields.io/badge/Verify_Credential-0F766E?style=for-the-badge&logo=letsencrypt&logoColor=2DD4BF" /></a>
     </td>
     <td width="35%" align="center" valign="middle">
-      <img src="https://github.com/HammasT1/Certifications/blob/main/Coursera%20Flutter%20certificatepdf_page-0001.jpg?raw=true" width="100%" alt="Advanced Flutter UI and State Management Certificate" style="border-radius: 8px; border: 1px solid #14B8A6;" />
+      <img src="https://raw.githubusercontent.com/HammasT1/Certifications/main/Coursera%20Flutter%20certificatepdf_page-0001.jpg" width="100%" alt="Advanced Flutter UI and State Management Certificate" />
     </td>
   </tr>
   <tr><td colspan="2"><br></td></tr>
@@ -445,7 +574,7 @@ Stepping up to empower my community, manage technical systems, and drive social 
       <a href="https://coursera.org/share/c807ae4008adea8741443537b095b0b7" target="_blank"><img src="https://img.shields.io/badge/Verify_Credential-0F766E?style=for-the-badge&logo=letsencrypt&logoColor=2DD4BF" /></a>
     </td>
     <td width="35%" align="center" valign="middle">
-      <img src="https://github.com/HammasT1/Certifications/blob/main/IBM%20Flutter%20certificate_page-0001.jpg?raw=true" width="100%" alt="Introduction to Mobile App Development Certificate" style="border-radius: 8px; border: 1px solid #14B8A6;" />
+      <img src="https://raw.githubusercontent.com/HammasT1/Certifications/main/IBM%20Flutter%20certificate_page-0001.jpg" width="100%" alt="Introduction to Mobile App Development Certificate" />
     </td>
   </tr>
 </table>
@@ -700,6 +829,29 @@ Stepping up to empower my community, manage technical systems, and drive social 
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=14B8A6&center=true&vCenter=true&width=600&lines=🔥+Committed+to+Continuous+Coding+Every+Single+Day;⚡+Building+Robust+Apps+%26+Pushing+Clean+Commits;🚀+Consistent+Contributions+%26+Active+Dev+Workflows" alt="Typing Streak Showcase" />
 </p>
 
+<!-- Contribution activity graph (theme sensitive) -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://activity-graph.vercel.app/graph?username=HammasT1&bg_color=0D1B2A&color=94A3B8&line=14B8A6&point=2DD4BF&area_color=0F766E&area=true&hide_border=true&radius=12">
+    <source media="(prefers-color-scheme: light)" srcset="https://activity-graph.vercel.app/graph?username=HammasT1&bg_color=FFFFFF&color=475569&line=0D9488&point=14B8A6&area_color=CCFBF1&area=true&hide_border=true&radius=12">
+    <img alt="Hammas's Contribution Activity Graph" src="https://activity-graph.vercel.app/graph?username=HammasT1&bg_color=0D1B2A&color=94A3B8&line=14B8A6&point=2DD4BF&area_color=0F766E&area=true&hide_border=true&radius=12" width="100%" />
+  </picture>
+</p>
+
+<!-- Side-by-side stats cards (theme sensitive) -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ghstats.dev/api/card?username=HammasT1&bg=0D1B2A&title_color=14B8A6&text=94A3B8&icon_color=2DD4BF&border_color=0F766E">
+    <source media="(prefers-color-scheme: light)" srcset="https://ghstats.dev/api/card?username=HammasT1&bg=FFFFFF&title_color=0D9488&text=475569&icon_color=14B8A6&border_color=E2E8F0">
+    <img alt="Hammas's GitHub Stats" src="https://ghstats.dev/api/card?username=HammasT1&bg=0D1B2A&title_color=14B8A6&text=94A3B8&icon_color=2DD4BF&border_color=0F766E" width="48%" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ghstats.dev/api/langs?username=HammasT1&layout=grid&bg=0D1B2A&title_color=14B8A6&text=94A3B8&icon_color=2DD4BF&border_color=0F766E">
+    <source media="(prefers-color-scheme: light)" srcset="https://ghstats.dev/api/langs?username=HammasT1&layout=grid&bg=FFFFFF&title_color=0D9488&text=475569&icon_color=14B8A6&border_color=E2E8F0">
+    <img alt="Top Languages" src="https://ghstats.dev/api/langs?username=HammasT1&layout=grid&bg=0D1B2A&title_color=14B8A6&text=94A3B8&icon_color=2DD4BF&border_color=0F766E" width="48%" />
+  </picture>
+</p>
+
 <p align="center">
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=HammasT1&hide_border=true&background=0D1B2A&ring=14B8A6&fire=54C5F8&currStreakLabel=14B8A6&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=94A3B8&dates=64748B&stroke=0F766E&border_radius=12" alt="GitHub Streak Stats" width="98%" /></a>
 </p>
@@ -718,13 +870,15 @@ Stepping up to empower my community, manage technical systems, and drive social 
       <img src="https://img.shields.io/badge/Mastered-Flutter_%26_Dart-14B8A6?style=flat-square&logo=flutter&logoColor=white" alt="Flutter"><br/><br/>
       <img src="https://img.shields.io/badge/Mastered-Linux_Ecosystem-14B8A6?style=flat-square&logo=linux&logoColor=white" alt="Linux"><br/><br/>
       <img src="https://img.shields.io/badge/Reported-Vulnerabilities_to_Companies-14B8A6?style=flat-square&logo=security&logoColor=white" alt="Security"><br/><br/>
-      <img src="https://img.shields.io/badge/Earned-GitHub_%26_Git_Certifications-14B8A6?style=flat-square&logo=microsoft&logoColor=white" alt="Certifications">
+      <img src="https://img.shields.io/badge/Earned-GitHub_%26_Git_Certifications-14B8A6?style=flat-square&logo=microsoft&logoColor=white" alt="Certifications"><br/><br/>
+      <img src="https://img.shields.io/badge/Published-Flutter_Packages_on_pub.dev-14B8A6?style=flat-square&logo=dart&logoColor=white" alt="Packages">
     </td>
     <td width="50%" align="center" valign="top">
       <h3>⚡ Upcoming Goals</h3>
       <img src="https://img.shields.io/badge/Target-20%2B_Freelance_Projects-0F766E?style=flat-square&logo=codeforces&logoColor=2DD4BF" alt="Freelance"><br/><br/>
       <img src="https://img.shields.io/badge/Target-Advanced_C%2B%2B_Systems_Programming-0F766E?style=flat-square&logo=cplusplus&logoColor=2DD4BF" alt="C++"><br/><br/>
-      <img src="https://img.shields.io/badge/Target-Ship_a_Production_App-0F766E?style=flat-square&logo=googleplay&logoColor=2DD4BF" alt="Ship App">
+      <img src="https://img.shields.io/badge/Target-Ship_a_Production_App-0F766E?style=flat-square&logo=googleplay&logoColor=2DD4BF" alt="Ship App"><br/><br/>
+      <img src="https://img.shields.io/badge/Target-Publish_AURAF_Packages_on_pub.dev-0F766E?style=flat-square&logo=dart&logoColor=2DD4BF" alt="AURAF">
     </td>
   </tr>
 </table>
@@ -758,6 +912,10 @@ Stepping up to empower my community, manage technical systems, and drive social 
 
 <p align="center">
   <i>"Building the Future, One Widget at a Time."</i>
+</p>
+
+<p align="center">
+  ⭐ <b>If you like this profile README, please consider leaving a star to show your support!</b> ⭐
 </p>
 
 <p align="center">
