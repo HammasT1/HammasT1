@@ -49,7 +49,7 @@
       </table>
     </td>
     <td width="40%" align="center" valign="middle">
-      <img src="https://raw.githubusercontent.com/HammasT1/HammasT1/main/readmefile/developer.gif" width="320" alt="Animated developer coding on a laptop" />
+      <img src="https://raw.githubusercontent.com/HammasT1/HammasT1/main/readmefile/developer.gif" width="100%" alt="Animated developer coding on a laptop" />
     </td>
   </tr>
 </table>
