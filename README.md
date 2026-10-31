@@ -43,7 +43,7 @@
         <tr><td>🎂&nbsp;<b>Age</b></td><td><img src="https://img.shields.io/badge/22%20Years-Old-14B8A6?style=flat-square&logo=reactivex&logoColor=white" alt="Age"></td></tr>
         <tr><td>🗺️&nbsp;<b>Origin</b></td><td><img src="https://img.shields.io/badge/Pakistan-%F0%9F%87%B5%F0%9F%87%B0-14B8A6?style=flat-square&logo=map&logoColor=white" alt="Origin"></td></tr>
         <tr><td>🎓&nbsp;<b>Education</b></td><td><img src="https://img.shields.io/badge/BS_Computer_Science-UET_Taxila-14B8A6?style=flat-square&logo=googlescholar&logoColor=white" alt="Education"></td></tr>
-        <tr><td>🗣️&nbsp;<b>Languages</b></td><td><img src="https://img.shields.io/badge/Urdu%20%7C%20English%20%7C%20Russian%20(Learning)-14B8A6?style=flat-square&logo=googletranslate&logoColor=white" alt="Languages"></td></tr>
+        <tr><td>🗣️&nbsp;<b>Languages</b></td><td><img src="https://img.shields.io/badge/Urdu%20%7C%20English%20%7C%20Chinese%20%7C%20German-14B8A6?style=flat-square&logo=googletranslate&logoColor=white" alt="Languages"></td></tr>
         <tr><td>💻&nbsp;<b>Core Stack</b></td><td><img src="https://img.shields.io/badge/Dart_%E2%80%A2_Python_%E2%80%A2_C++-14B8A6?style=flat-square&logo=codeforces&logoColor=white" alt="Core Stack"></td></tr>
         <tr><td>🎯&nbsp;<b>Focus</b></td><td><img src="https://img.shields.io/badge/Production--Ready_Flutter_Apps_%26_Freelance_Engineering-14B8A6?style=flat-square&logo=target&logoColor=white" alt="Focus"></td></tr>
       </table>
