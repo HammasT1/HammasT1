@@ -5,7 +5,7 @@
 <a name="top"></a>
 
 <p align="center">
-  <a href="#me"><b>Me</b></a> • <a href="#journey"><b>Journey</b></a> • <a href="#now"><b>Now</b></a> • <a href="#auraf"><b>AURAF</b></a> • <a href="#arsenal"><b>Arsenal</b></a> • <a href="#philosophy"><b>Philosophy</b></a> • <a href="#projects"><b>Projects</b></a> • <a href="#showcase"><b>Showcase</b></a> • <a href="#roles"><b>Leadership</b></a> • <a href="#certifications"><b>Certifications</b></a> • <a href="#services"><b>Services</b></a> • <a href="#casestudies"><b>Case Studies</b></a> • <a href="#faq"><b>FAQ</b></a> • <a href="#beyond"><b>Beyond Code</b></a> • <a href="#stats"><b>Stats</b></a> • <a href="#wanna-chat"><b>Contact</b></a>
+  <a href="#me"><b>Me</b></a> • <a href="#glance"><b>At a Glance</b></a> • <a href="#journey"><b>Journey</b></a> • <a href="#now"><b>Now</b></a> • <a href="#latest"><b>Latest Release</b></a> • <a href="#auraf"><b>AURAF</b></a> • <a href="#arsenal"><b>Arsenal</b></a> • <a href="#philosophy"><b>Philosophy</b></a> • <a href="#projects"><b>Projects</b></a> • <a href="#packages"><b>Packages</b></a> • <a href="#showcase"><b>Showcase</b></a> • <a href="#roles"><b>Leadership</b></a> • <a href="#certifications"><b>Certifications</b></a> • <a href="#services"><b>Services</b></a> • <a href="#casestudies"><b>Case Studies</b></a> • <a href="#faq"><b>FAQ</b></a> • <a href="#beyond"><b>Beyond Code</b></a> • <a href="#stats"><b>Stats</b></a> • <a href="#achievements"><b>Achievements</b></a> • <a href="#wanna-chat"><b>Contact</b></a>
 </p>
 
 <p align="center">
@@ -69,6 +69,38 @@ I'm **Muhammad Hammas Rasheed**, a Computer Science undergraduate at **UET Taxil
 
 <h6 align="center"><sub>█████████████████████████████████████████████████████████</sub></h6>
 
+<a name="glance"></a>
+
+## 📌 At a Glance
+
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="33%">
+      <img src="https://img.shields.io/badge/Pub.dev_Packages-3-14B8A6?style=for-the-badge&logo=dart&logoColor=white" />
+    </td>
+    <td align="center" width="33%">
+      <img src="https://img.shields.io/badge/Flutter_Experience-2%2B_Years-14B8A6?style=for-the-badge&logo=flutter&logoColor=white" />
+    </td>
+    <td align="center" width="33%">
+      <img src="https://img.shields.io/badge/AURAF_Research_Packages-4-14B8A6?style=for-the-badge&logo=dart&logoColor=white" />
+    </td>
+  </tr>
+  <tr><td colspan="3"><br></td></tr>
+  <tr>
+    <td align="center" width="33%">
+      <img src="https://img.shields.io/badge/Verified_Certifications-6-0F766E?style=for-the-badge&logo=googlescholar&logoColor=2DD4BF" />
+    </td>
+    <td align="center" width="33%">
+      <img src="https://img.shields.io/badge/Leadership_Roles-5-0F766E?style=for-the-badge&logo=teamspeak&logoColor=2DD4BF" />
+    </td>
+    <td align="center" width="33%">
+      <img src="https://img.shields.io/badge/Case_Studies-6-0F766E?style=for-the-badge&logo=readthedocs&logoColor=2DD4BF" />
+    </td>
+  </tr>
+</table>
+
+<h6 align="center"><sub>█████████████████████████████████████████████████████████</sub></h6>
+
 <a name="journey"></a>
 
 ## 🗺️ My Journey
@@ -124,6 +156,53 @@ I'm **Muhammad Hammas Rasheed**, a Computer Science undergraduate at **UET Taxil
     </td>
   </tr>
 </table>
+
+<h6 align="center"><sub>█████████████████████████████████████████████████████████</sub></h6>
+
+<a name="latest"></a>
+
+## 🆕 Latest Release: holo_card
+
+<table width="100%">
+  <tr>
+    <td width="30%" align="center" valign="middle">
+      <img src="https://img.shields.io/badge/📦_holo__card-14B8A6?style=for-the-badge&logoColor=white" /><br/><br/>
+      <img src="https://img.shields.io/badge/Newest-Package-0F766E?style=flat-square&logoColor=2DD4BF" />
+    </td>
+    <td width="70%" valign="middle">
+      A Flutter package that wraps any widget in a 3D holographic collectible card. It tilts with touch, mouse or the device gyroscope, a glare follows the light, and a shader-driven foil effect shifts across the surface as the card moves. My third published package.<br><br>
+      <img src="https://img.shields.io/badge/Flutter-14B8A6?style=flat-square&logo=flutter&logoColor=white" />
+      <img src="https://img.shields.io/badge/Dart-14B8A6?style=flat-square&logo=dart&logoColor=white" />
+      <img src="https://img.shields.io/badge/Fragment_Shaders-0F766E?style=flat-square&logoColor=2DD4BF" />
+      <img src="https://img.shields.io/badge/pub.dev-0F766E?style=flat-square&logo=dart&logoColor=2DD4BF" /><br><br>
+      <img src="https://img.shields.io/pub/v/holo_card?style=flat-square&color=14B8A6&labelColor=0D1B2A&logo=dart&logoColor=white&label=version" />
+      <img src="https://img.shields.io/pub/likes/holo_card?style=flat-square&color=14B8A6&labelColor=0D1B2A&label=likes" />
+      <img src="https://img.shields.io/pub/points/holo_card?style=flat-square&color=14B8A6&labelColor=0D1B2A&label=pub%20points" /><br><br>
+      <a href="https://pub.dev/packages/holo_card"><img src="https://img.shields.io/badge/View_on_pub.dev-14B8A6?style=for-the-badge&logo=dart&logoColor=white" /></a>
+      <a href="https://github.com/HammasT1/holo_card"><img src="https://img.shields.io/badge/View_Repository-14B8A6?style=for-the-badge&logo=github&logoColor=white" /></a>
+    </td>
+  </tr>
+</table>
+
+<!-- Add a demo GIF here once you have it:
+<p align="center">
+  <img src="https://raw.githubusercontent.com/HammasT1/holo_card/main/doc/demo.gif" width="320" alt="holo_card live preview" />
+</p>
+-->
+
+**Try it in 30 seconds:**
+
+```bash
+dart pub add holo_card
+```
+
+```dart
+import 'package:holo_card/holo_card.dart';
+
+HoloCard(
+  child: YourCardContent(),
+)
+```
 
 <h6 align="center"><sub>█████████████████████████████████████████████████████████</sub></h6>
 
@@ -303,6 +382,18 @@ I'm **Muhammad Hammas Rasheed**, a Computer Science undergraduate at **UET Taxil
 <table width="100%">
   <tr>
     <td width="30%" align="center">
+      <img src="https://img.shields.io/badge/📦_holo__card-14B8A6?style=for-the-badge&logoColor=white" />
+    </td>
+    <td width="70%">
+      A published open-source Flutter package that turns any widget into a tilt-reactive 3D holographic card, with gyroscope and pointer input, dynamic glare and a shader-based foil effect.<br><br>
+      <img src="https://img.shields.io/badge/Flutter-14B8A6?style=flat-square&logo=flutter&logoColor=white" />
+      <img src="https://img.shields.io/badge/Dart-14B8A6?style=flat-square&logo=dart&logoColor=white" />
+      <img src="https://img.shields.io/badge/pub.dev-0F766E?style=flat-square&logo=dart&logoColor=2DD4BF" /><br><br>
+      <a href="https://pub.dev/packages/holo_card"><img src="https://img.shields.io/badge/View_on_pub.dev-14B8A6?style=for-the-badge&logo=dart&logoColor=white" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="30%" align="center">
       <img src="https://img.shields.io/badge/📦_gesture__physics__animator-14B8A6?style=for-the-badge&logoColor=white" />
     </td>
     <td width="70%">
@@ -356,6 +447,40 @@ I'm **Muhammad Hammas Rasheed**, a Computer Science undergraduate at **UET Taxil
       <img src="https://img.shields.io/badge/Flutter-14B8A6?style=flat-square&logo=flutter&logoColor=white" />
       <img src="https://img.shields.io/badge/Dart-14B8A6?style=flat-square&logo=dart&logoColor=white" /><br><br>
       <a href="https://github.com/HammasT1/Pacman_Flutter"><img src="https://img.shields.io/badge/View_Repository-14B8A6?style=for-the-badge&logo=github&logoColor=white" /></a>
+    </td>
+  </tr>
+</table>
+
+<h6 align="center"><sub>█████████████████████████████████████████████████████████</sub></h6>
+
+<a name="packages"></a>
+
+## 📦 Package Portfolio
+
+<p align="center"><i>Live numbers pulled straight from pub.dev.</i></p>
+
+<table width="100%">
+  <tr>
+    <td width="33%" align="center" valign="top">
+      <img src="https://img.shields.io/badge/📦_holo__card-14B8A6?style=for-the-badge&logoColor=white" /><br/><br/>
+      <img src="https://img.shields.io/pub/v/holo_card?style=flat-square&color=14B8A6&labelColor=0D1B2A&logo=dart&logoColor=white&label=version" /><br/>
+      <img src="https://img.shields.io/pub/likes/holo_card?style=flat-square&color=14B8A6&labelColor=0D1B2A&label=likes" /><br/>
+      <img src="https://img.shields.io/pub/points/holo_card?style=flat-square&color=14B8A6&labelColor=0D1B2A&label=pub%20points" /><br/><br/>
+      <a href="https://pub.dev/packages/holo_card"><img src="https://img.shields.io/badge/pub.dev-0F766E?style=for-the-badge&logo=dart&logoColor=2DD4BF" /></a>
+    </td>
+    <td width="33%" align="center" valign="top">
+      <img src="https://img.shields.io/badge/📦_safe__flex-14B8A6?style=for-the-badge&logoColor=white" /><br/><br/>
+      <img src="https://img.shields.io/pub/v/safe_flex?style=flat-square&color=14B8A6&labelColor=0D1B2A&logo=dart&logoColor=white&label=version" /><br/>
+      <img src="https://img.shields.io/pub/likes/safe_flex?style=flat-square&color=14B8A6&labelColor=0D1B2A&label=likes" /><br/>
+      <img src="https://img.shields.io/pub/points/safe_flex?style=flat-square&color=14B8A6&labelColor=0D1B2A&label=pub%20points" /><br/><br/>
+      <a href="https://pub.dev/packages/safe_flex"><img src="https://img.shields.io/badge/pub.dev-0F766E?style=for-the-badge&logo=dart&logoColor=2DD4BF" /></a>
+    </td>
+    <td width="33%" align="center" valign="top">
+      <img src="https://img.shields.io/badge/📦_gesture__physics__animator-14B8A6?style=for-the-badge&logoColor=white" /><br/><br/>
+      <img src="https://img.shields.io/pub/v/gesture_physics_animator?style=flat-square&color=14B8A6&labelColor=0D1B2A&logo=dart&logoColor=white&label=version" /><br/>
+      <img src="https://img.shields.io/pub/likes/gesture_physics_animator?style=flat-square&color=14B8A6&labelColor=0D1B2A&label=likes" /><br/>
+      <img src="https://img.shields.io/pub/points/gesture_physics_animator?style=flat-square&color=14B8A6&labelColor=0D1B2A&label=pub%20points" /><br/><br/>
+      <a href="https://pub.dev/packages/gesture_physics_animator"><img src="https://img.shields.io/badge/pub.dev-0F766E?style=for-the-badge&logo=dart&logoColor=2DD4BF" /></a>
     </td>
   </tr>
 </table>
@@ -747,6 +872,53 @@ Stepping up to empower my community, manage technical systems, and drive social 
   </tr>
 </table>
 
+<br>
+
+<table width="100%">
+  <tr>
+    <td width="100%">
+      <img src="https://img.shields.io/badge/🪪_Case_Study_—_holo__card-14B8A6?style=for-the-badge&logoColor=white" /><br/><br/>
+      <table width="100%">
+        <tr>
+          <td width="33%" valign="top">
+            <img src="https://img.shields.io/badge/Problem-0F766E?style=flat-square&logoColor=2DD4BF" /><br/><br/>
+            <p align="left">Profile, membership and collectible-style cards usually stop at a drop shadow. Nothing about them reacts to how you hold or touch the device, so they feel flat.</p>
+          </td>
+          <td width="33%" valign="top">
+            <img src="https://img.shields.io/badge/Approach-0F766E?style=flat-square&logoColor=2DD4BF" /><br/><br/>
+            <p align="left">Built a perspective-transformed 3D tilt driven by pointer, touch or gyroscope input with a spring-based return, added a glare that follows the tilt angle, and layered a fragment-shader foil effect with a gradient fallback. Effect layers repaint through a listenable, so the wrapped child never rebuilds while the card moves.</p>
+          </td>
+          <td width="33%" valign="top">
+            <img src="https://img.shields.io/badge/Result-0F766E?style=flat-square&logoColor=2DD4BF" /><br/><br/>
+            <p align="left">A published, documented package that lets any developer give a widget a premium holographic look in a few lines of code, built with hand-written rendering and motion instead of animation libraries.</p>
+          </td>
+        </tr>
+      </table>
+      <a href="https://pub.dev/packages/holo_card"><img src="https://img.shields.io/badge/View_on_pub.dev-14B8A6?style=for-the-badge&logo=dart&logoColor=white" /></a>
+      <a href="https://github.com/HammasT1/holo_card"><img src="https://img.shields.io/badge/View_Repository-14B8A6?style=for-the-badge&logo=github&logoColor=white" /></a>
+    </td>
+  </tr>
+</table>
+
+<!-- Testimonials: remove the comment markers once you have real client feedback to show.
+<a name="testimonials"></a>
+
+## 💬 Client Feedback
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <img src="https://img.shields.io/badge/Client_Name-Project_Type-14B8A6?style=for-the-badge&logoColor=white" /><br/><br/>
+      <p align="left"><i>"Paste a real quote from a client here."</i></p>
+    </td>
+    <td width="50%" valign="top">
+      <img src="https://img.shields.io/badge/Client_Name-Project_Type-14B8A6?style=for-the-badge&logoColor=white" /><br/><br/>
+      <p align="left"><i>"Paste a second real quote here."</i></p>
+    </td>
+  </tr>
+</table>
+-->
+
 <h6 align="center"><sub>█████████████████████████████████████████████████████████</sub></h6>
 
 <a name="faq"></a>
@@ -858,6 +1030,24 @@ Stepping up to empower my community, manage technical systems, and drive social 
 
 <h6 align="center"><sub>█████████████████████████████████████████████████████████</sub></h6>
 
+<a name="achievements"></a>
+
+## 🏆 Achievements & Contribution Snake
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=HammasT1&theme=onedark&no-frame=true&no-bg=true&margin-w=12&row=1&column=7" alt="GitHub Trophies" width="100%" />
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HammasT1/HammasT1/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HammasT1/HammasT1/output/github-snake.svg">
+    <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/HammasT1/HammasT1/output/github-snake-dark.svg" width="100%" />
+  </picture>
+</p>
+
+<h6 align="center"><sub>█████████████████████████████████████████████████████████</sub></h6>
+
 <a name="milestones"></a>
 
 ## 🎯 Progress Tracker
@@ -882,6 +1072,14 @@ Stepping up to empower my community, manage technical systems, and drive social 
     </td>
   </tr>
 </table>
+
+<h6 align="center"><sub>█████████████████████████████████████████████████████████</sub></h6>
+
+## 💬 Quote of the Moment
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote_color=14B8A6&author_color=94A3B8&bg_color=0D1B2A&border_color=0F766E" alt="Quote of the moment" />
+</p>
 
 <h6 align="center"><sub>█████████████████████████████████████████████████████████</sub></h6>
 
