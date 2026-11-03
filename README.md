@@ -1035,10 +1035,6 @@ Stepping up to empower my community, manage technical systems, and drive social 
 ## 🏆 Achievements & Contribution Snake
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=HammasT1&theme=onedark&no-frame=true&no-bg=true&margin-w=12&row=1&column=7" alt="GitHub Trophies" width="100%" />
-</p>
-
-<p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HammasT1/HammasT1/output/github-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HammasT1/HammasT1/output/github-snake.svg">
